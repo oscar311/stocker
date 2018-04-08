@@ -1,0 +1,1000 @@
+ 1143  ./Tennis test.txt 
+ 1144  gedit test.txt 
+ 1145  ./Tennis test.txt 
+ 1146  gedit test.txt 
+ 1147  ./Tennis test.txt 
+ 1148  gedit test.txt 
+ 1149  ./Tennis test.txt 
+ 1150  cd ~/android-studio/bin/
+ 1151  ./studio.sh 
+ 1152  cd ~/android-studio/bin/
+ 1153  ./studio.sh 
+ 1154  cd ~/android-studio/bin/
+ 1155  ./studio.sh 
+ 1156  sudo add-apt-repository ppa:ubuntu-x-swat/x-updates
+ 1157  sudo add-apt-repository ppa:oibaf/graphics-drivers
+ 1158  sudo apt-get update
+ 1159  cd ~/android-studio/bin/
+ 1160  ./studio.sh 
+ 1161  cd ~/android-studio/bin/
+ 1162  ./studio.sh 
+ 1163  apt-get install android-tools-adb
+ 1164  cd ~/
+ 1165  apt-get install android-tools-adb
+ 1166  sudo apt-get install android-tools-adb
+ 1167  cd ~/android-studio/bin/
+ 1168  ./studio.sh 
+ 1169  cd ~/android-studio/bin/
+ 1170  ./studio.sh 
+ 1171  cd ~/android-studio/bin/
+ 1172  ./studio.sh 
+ 1173  cd ~/android-studio/bin/
+ 1174  ./studio.sh 
+ 1175  cd cmake-build-debug/
+ 1176  ./Tennis test.txt 
+ 1177  gedit test.txt 
+ 1178  ./Tennis test.txt 
+ 1179  ./Tennis test.txt Sydney Brisbane
+ 1180  ./Tennis test.txt Sydney Perth
+ 1181  z5114617@login.case.unsw.edu.au
+ 1182  shh z5114617@login.case.unsw.edu.au
+ 1183  ssh z5114617@login.case.unsw.edu.au
+ 1184  ssh z5114617@login.cse.unsw.edu.au
+ 1185  cd ~/android-studio/bin/
+ 1186  ./studio.sh 
+ 1187  cd ~/android-studio/bin/
+ 1188  ./studio.sh 
+ 1189  cd ~/android-studio/bin/
+ 1190  ./studio.sh 
+ 1191  cd ~/android-studio/bin/
+ 1192  ./studio.sh 
+ 1193  sudo apt remove ttf-mscorefonts-installer
+ 1194  sudo dpkg -i ttf-mscorefonts-installer_3.6_all.deb
+ 1195  cd ~/Downloads/
+ 1196  sudo dpkg -i ttf-mscorefonts-installer_3.6_all.deb
+ 1197  sudo dpkg -i ttf-mscorefonts-installer_3.7_all.deb
+ 1198  cd ~/workspace/nexusTennis/tour-calculator/searchingAlgo/NexusTennis/Tennis/cmake-build-debug/
+ 1199  ls
+ 1200  ./Tennis test.txt Sydney Brisbane
+ 1201  ./Tennis test.txt Sydney Canberra
+ 1202  ./Tennis test.txt Sydney Darwin
+ 1203  ./Tennis test.txt Sydney Melbourne
+ 1204  ./Tennis test.txt Sydney AliceSprings
+ 1205  ./Tennis test.txt Sydney Darwin
+ 1206  ./Tennis test.txt Sydney Perth
+ 1207  cd ~/android-studio/bin/
+ 1208  ./studio.sh 
+ 1209  cd ~/android-studio/bin/
+ 1210  ./studio.sh 
+ 1211  cd ~/android-studio/bin/
+ 1212  ./studio.sh 
+ 1213  ./Tennis test.txt Sydney Brisbane
+ 1214  cd cmake-build-debug/
+ 1215  ./Tennis test.txt Sydney Brisbane
+ 1216  ./Tennis test.txt Sydney Perth
+ 1217  ./Tennis test.txt Sydney Brisbane
+ 1218  cd cmake-build-debug/
+ 1219  ./Tennis test.txt Sydney Brisbane
+ 1220  ./Tennis test.txt Sydney Perth
+ 1221  ./Tennis test.txt Sydney Darwin
+ 1222  ./Tennis test.txt Sydney Canberra
+ 1223  ./Tennis test.txt Sydney Perth
+ 1224  ./Tennis test.txt Sydney Darwin
+ 1225  cd ~/workspace/nexusTennis/tour-calculator/searchingAlgo/NexusTennis/Tennis/cmake-build-debug
+ 1226  ./Tennis test.txt Sydney Perth
+ 1227  3231
+ 1228  ssh z5114817@login.cse.unsw.edu.au
+ 1229  ls
+ 1230  cd sys161-2.0.8/
+ 1231  ls
+ 1232  ./installit.sh --with-compiler=CC --prefix=DIR --bindir=DIR --docdir=DIR --mandir=DIR --debug
+ 1233  ./installit.sh
+ 1234  ./installit.sh ~/ --with-compiler=CC --prefix=DIR --bindir=DIR --docdir=DIR --mandir=DIR --debug
+ 1235  ./installit.sh ~/
+ 1236  ./configure --with-compiler=CC --prefix=$HOME/sys161 --bindir=$HOME/sys161 --docdir=$HOME/sys161 --mandir=$HOME/sys161 --debug
+ 1237  ./configure --help
+ 1238  ./configure --with-compiler=CC --prefix=$HOME/sys161 --bindir=$HOME/sys161 --docdir=$HOME/sys161 --mandir=$HOME/sys161 --debug mipseb
+ 1239  make
+ 1240  make install
+ 1241  cd~?
+ 1242  cd ~/
+ 1243  sys161 3231
+ 1244  cd ~/sys161
+ 1245  cd ~/sys161-2.0.8/
+ 1246  sys161 3231
+ 1247  cd /home/oscar/sys161
+ 1248  sys161 3231
+ 1249  sys161 kernel
+ 1250  bmake
+ 1251  cd ..
+ 1252  cd sys161-2.0.8/
+ 1253  bmake
+ 1254  sudo apt install bmake
+ 1255  bmake
+ 1256  bmake install
+ 1257  sys161 kernel
+ 1258  ./sys161 kernel
+ 1259  cd ..
+ 1260  cd sys161
+ 1261  sys161 kernel
+ 1262  cd ..
+ 1263  mkdir cs350-os161
+ 1264  cd cs350-os161
+ 1265  tar -xzf /u/cs350/pub/os161_repository/os161.tar.gz
+ 1266  tar -xzf ~/os161.tar.gz
+ 1267  cd ..
+ 1268  setenv ~/ `/bin/showpath standard` 
+ 1269  gedit .cshrc
+ 1270  ls -al
+ 1271  cd .config/
+ 1272  ls
+ 1273  ls -al
+ 1274  gedit /etc/.cshrc
+ 1275  cd ..
+ 1276  gedit .cshrc
+ 1277  rm .cshrc 
+ 1278  gedit .bashrc 
+ 1279  ~/cs350-os161/
+ 1280  cd ~/cs350-os161/
+ 1281  ls
+ 1282  ls -al
+ 1283  printenv PATH
+ 1284  grep ^brecht: /etc/passwd
+ 1285  sys161
+ 1286  ./sys161 kernel
+ 1287  ./sys161
+ 1288  sys161
+ 1289  3231
+ 1290  ssh z5114817@login.cse.unsw.edu.au
+ 1291  grep ^brecht: /etc/passwd
+ 1292  cd sys161/
+ 1293  grep ^brecht: /etc/passwd
+ 1294  cd ..
+ 1295  printenv PATH
+ 1296  gedit .bashrc
+ 1297  ls -al
+ 1298  vim .bashrc 
+ 1299  cd ..
+ 1300  cd ~/
+ 1301  vim .bashrc 
+ 1302  echo $PATH
+ 1303  echo .profile 
+ 1304  cat .profile 
+ 1305  gedit .profile 
+ 1306  grep ^brecht: /etc/passwd
+ 1307  printenv PATH
+ 1308  gedit .profile 
+ 1309  gedit .bashrc
+ 1310  gedit .profile 
+ 1311  cd ..
+ 1312  cd asst0-src/
+ 1313  ./configure 
+ 1314  cd kern/conf/
+ 1315  ./config ASST0
+ 1316  cd ../compile/ASST0/
+ 1317  bmake depend
+ 1318  bmake
+ 1319  bmake install
+ 1320  bmake depend
+ 1321  bmake
+ 1322  bmake install
+ 1323  cd ..
+ 1324  os161-gdb kernel
+ 1325  asst0
+ 1326  ./asst0
+ 1327  os161-gdb kernel
+ 1328  ls -al
+ 1329  gedit .gdbinit 
+ 1330  os161-gdb kernel
+ 1331  svn copy -m "Tag initial import" file:///home/oscar/workspace/cs3231/repo/asst0/trunk file:///home/oscar/workspace/cs3231/repo/asst0/initial
+ 1332  svn checkout file:///home/oscar/workspace/cs3231/repo/asst0/trunk asst0-src
+ 1333  cd asst0-src/
+ 1334  ./configure 
+ 1335  cd kern/conf/
+ 1336  ./config ASST0
+ 1337  cd ../compile/ASST0/
+ 1338  bmake depend
+ 1339  bmake
+ 1340  bmake install
+ 1341  ls
+ 1342  bmake install
+ 1343  cd ..
+ 1344  bmake
+ 1345  cd ..
+ 1346  cd  root/
+ 1347  sys161 kernel
+ 1348  gedit sys161.conf
+ 1349  sys161 kernel
+ 1350  gedit .gdbinit
+ 1351  sys161 -w kernel
+ 1352  cd asst0-src/
+ 1353  ./configure 
+ 1354  cd kern/conf
+ 1355  ./config ASST0
+ 1356  cd ../compile/ASST0
+ 1357  bmake depend
+ 1358  bmake
+ 1359  bmake install
+ 1360  cs350-gcc
+ 1361  cd cs350-os161/
+ 1362  cd os161-1.99
+ 1363  ./configure --ostree=$HOME/cs350-os161/root --toolprefix=cs350
+ 1364  ./configure
+ 1365  cd kern/conf
+ 1366  ./config ASST0
+ 1367  ls -al
+ 1368  ./config
+ 1369  ./config --help
+ 1370  bmake 
+ 1371  bmake install
+ 1372  cd ~/sys161
+ 1373  ;s
+ 1374  ls
+ 1375  cd root
+ 1376  cd ~/sys161-2.0.8/
+ 1377  ls
+ 1378  sys161
+ 1379  cd main/
+ 1380  ls
+ 1381  cd ..
+ 1382  cd /home/oscar/
+ 1383  sys161
+ 1384  os161
+ 1385  cd ~/cs3231/asst0-src
+ 1386  cd sys161
+ 1387  ;s
+ 1388  ls
+ 1389  cd sys161
+ 1390  ./sys161
+ 1391  sys161 kernel
+ 1392  ./sys161 kernel
+ 1393  ./sys161 kernel -c
+ 1394  cd ..
+ 1395  mkdir workspace/cs3231
+ 1396  cd workspace/cs3231
+ 1397  svnadmin create repo
+ 1398  sudo apt install subversion
+ 1399  svnadmin create repo
+ 1400  cd assigns
+ 1401  cd /home/cs3231/assigns
+ 1402  svn import asst0/src file:///home/oscar/cs3231/repo/asst0/trunk -m "Initial import"
+ 1403  svn import asst0/src file:///home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1404  svn import asst0/src file://home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1405  svn import asst0/src file:///home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1406  svn cleanup
+ 1407  cd /home/oscar/cs3231/assigns
+ 1408  svn upgrade
+ 1409  ls -al
+ 1410  svn import asst0/src file:///home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1411  mkdir asst0
+ 1412  mkdir asst0/src
+ 1413  svn import asst0/src file:///home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1414  % svn copy -m "Tag initial import" file:///home/$USER/cs3231/repo/asst0/trunk file:///home/$USER/cs3231/repo/asst0/initial
+ 1415  svn copy -m "Tag initial import" file:///home/oscar/cs3231/repo/asst0/trunk file:///home/oscar/cs3231/repo/asst0/initial
+ 1416  svn checkout file:///home/oscar/cs3231/repo/asst0/trunk asst0-src
+ 1417  cd asst0/
+ 1418  ls
+ 1419  cd src
+ 1420  ls
+ 1421  cd ..
+ 1422  svn import asst0/src file:///home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1423  cd repo/
+ 1424  ;s
+ 1425  ls
+ 1426  % svn copy -m "Tag initial import" file:///home/$USER/cs3231/repo/asst0/trunk file:///home/$USER/cs3231/repo/asst0/initial
+ 1427  % svn copy -m "Tag initial import" file:///home/oscar/cs3231/repo/asst0/trunk file:///home/oscar/cs3231/repo/asst0/initial
+ 1428  cd ..
+ 1429  % svn copy -m "Tag initial import" file:///home/oscar/cs3231/repo/asst0/trunk file:///home/oscar/cs3231/repo/asst0/initial
+ 1430  svn copy -m "Tag initial import" file:///home/oscar/cs3231/repo/asst0/trunk file:///home/oscar/cs3231/repo/asst0/initial
+ 1431  ls
+ 1432  cd repo
+ 1433  ls
+ 1434  cd conf/
+ 1435  ls
+ 1436  cd ..
+ 1437  ls
+ 1438  cd db
+ 1439  ls
+ 1440  cd ..
+ 1441  mkdir asst0-src
+ 1442  cd asst0
+ 1443  cd ..
+ 1444  cd asst0-src/
+ 1445  ./configure
+ 1446  cd ..
+ 1447  rmdir asst0-src/
+ 1448  rmdir asst0
+ 1449  ./configure
+ 1450  svn checkout file:///home/oscar/cs3231/repo/asst0/trunk asst0-src
+ 1451  svn import asst0/src file:///home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1452  svn checkout file:///home/oscar/cs3231/repo/asst0/trunk asst0-src
+ 1453  cd repo/asst0
+ 1454  cd repo
+ 1455  ls
+ 1456  ls -al
+ 1457  gedit README.txt 
+ 1458  mkdir asst0
+ 1459  mkdir asst0/trunk
+ 1460  cd ..
+ 1461  svn checkout file:///home/oscar/cs3231/repo/asst0/trunk asst0-src
+ 1462  svn import asst0/src file:///home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1463  svn copy -m "Tag initial import" file:///home/oscar/cs3231/repo/asst0/trunk file:///home/oscar/cs3231/repo/asst0/initial
+ 1464  svn copy -m "Tag initial import" file:///home/oscar/workspace/cs3231/repo/asst0/trunk file:///home/oscar/workspace/cs3231/repo/asst0/initial
+ 1465  svn checkout file:///home/oscar/workspace/cs3231/repo/asst0/trunk asst0-src
+ 1466  ls
+ 1467  cd asst0-src/
+ 1468  ;s
+ 1469  ls
+ 1470  cd ..
+ 1471  rmdir repo
+ 1472  svnadmin create repo
+ 1473  svn import asst0/src file:///home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1474  cd /home/cs3121/assigns
+ 1475  svn import asst0/src file:///home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1476  mdkir asst0
+ 1477  mkdir asst0
+ 1478  mkdir asst0/src
+ 1479  svn import asst0/src file:///home/oscar/workspace/cs3231/repo/asst0/trunk -m "Initial import"
+ 1480  svn copy -m "Tag initial import" file:///home/oscar/workspace/cs3231/repo/asst0/trunk file:///home/oscar/workspace/cs3231/repo/asst0/initial
+ 1481  svn checkout file:///home/oscar/workspace/cs3231/repo/asst0/trunk asst0-src
+ 1482  cd asst0-src/
+ 1483  ls
+ 1484  ls -al
+ 1485  ./configure
+ 1486  ./configure linux
+ 1487  ./configure --help
+ 1488  ./configure mipseb
+ 1489  make
+ 1490  make install
+ 1491  ./config ASST0
+ 1492  sudo make
+ 1493  sudo make install
+ 1494  ./config ASST0
+ 1495  ls
+ 1496  cd mipseb/
+ 1497  ls
+ 1498  cd ..
+ 1499  cd build-sys161/
+ 1500  ls
+ 1501  sys161
+ 1502  sys161 kernel
+ 1503  sudo sys161 kernel
+ 1504  cd ..
+ 1505  ls
+ 1506  bmake depend
+ 1507  bmake
+ 1508  bmake install
+ 1509  suod bmake install
+ 1510  sudo bmake install
+ 1511  cd ..
+ 1512  cd root
+ 1513  sys161 kernel
+ 1514  sys161.conf
+ 1515  gedit sys161.conf
+ 1516  cd asst0
+ 1517  ls
+ 1518  cd ..
+ 1519  cd asst0-src/
+ 1520  ls
+ 1521  cd kern/conf/
+ 1522  ./config ASST0
+ 1523  ./config 
+ 1524  ./config ASST
+ 1525  ./config ASST0
+ 1526  ./config z
+ 1527  ./config x
+ 1528  ./config kernel
+ 1529  cd ../compile/
+ 1530  ls
+ 1531  mkdir ASST0
+ 1532  cd ../conf/
+ 1533  ./config ASST0
+ 1534  cd ~/
+ 1535  sudo dpkg -i os161-utils_2.0.8.deb
+ 1536  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ 1537  /oscar/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ 1538  ls -al
+ 1539  sys161 kernel
+ 1540  ssh z5114817@login.cse.unsw.edu.au
+ 1541  ./configure mipseb
+ 1542  make
+ 1543  make install
+ 1544  sudo make install
+ 1545  ./config
+ 1546  os161-gdb kernel
+ 1547  os161-gdb -q kernel 
+ 1548  os161-gdb kernel
+ 1549  cd root/
+ 1550  sys161 -w kernel
+ 1551  cd ~/
+ 1552  ssh z5114817@login.cse.unsw.edu.au
+ 1553  cd src/
+ 1554  ./configure 
+ 1555  cd ~/
+ 1556  pipenv install requests
+ 1557  sudo apt-get install pipenv
+ 1558  sudo apt install software-properties-common python-software-properties
+ 1559  sudo add-apt-repository ppa:pypa/ppa
+ 1560  sudo apt update
+ 1561  sudo apt install pipenv
+ 1562  sudo apt update
+ 1563  sudo apt install pipenv
+ 1564  sudo apt-get install pipenv
+ 1565  pip install pipenv
+ 1566  sudo apt install python-pip
+ 1567  pip install pipenv
+ 1568  pipenv install requests
+ 1569  sys161 -w kernel
+ 1570  cd ./../..
+ 1571  cd ..
+ 1572  cd ../root/
+ 1573  sys161 -w kernel
+ 1574  mkdir 1
+ 1575  cd 1
+ 1576  ./start.py
+ 1577  sudo ./start.py
+ 1578  ls
+ 1579  chmod a+x start.py 
+ 1580  ./start.py
+ 1581  main
+ 1582  ./start.py
+ 1583  clear
+ 1584  ./start.py
+ 1585  python ./start.py
+ 1586  ls
+ 1587  python ./start.py
+ 1588  ls
+ 1589  python ./start.py
+ 1590  sudo apt-get install python3
+ 1591  python start.py
+ 1592  ls
+ 1593  gedit start.py 
+ 1594  python recipe-580800-1.py 
+ 1595  python start.py
+ 1596  sudo python start.py
+ 1597  python start.py
+ 1598  python mod1.py 50
+ 1599  python ex1.py 
+ 1600  cd practice_python/
+ 1601  python ex1.py 
+ 1602  python ex2.py 
+ 1603  python ex2.py 4
+ 1604  python ex3.py
+ 1605  python ex4.py
+ 1606  python
+ 1607  python ex5.py
+ 1608  python ex6.py
+ 1609  python
+ 1610  python ex6.py
+ 1611  python ex7.py
+ 1612  python ex13.py
+ 1613  python ex14.py
+ 1614  hello my name is oscar
+ 1615  python ex14.py
+ 1616  python ex15.py
+ 1617  python ex17.py
+ 1618  python ex19.py 
+ 1619  python ex20.py 
+ 1620  python ex21.py 
+ 1621  ls
+ 1622  gedit file_to_save.txt 
+ 1623  ls
+ 1624  python ex21.py 
+ 1625  gedit file_to_save.txt 
+ 1626  python ex22.py 
+ 1627  gedit file_to_save.txt 
+ 1628  python ex22.py 
+ 1629  cd ../stocker 
+ 1630  cd ..
+ 1631  ls
+ 1632  cd ..
+ 1633  cd stocker/
+ 1634  ls
+ 1635  python stocker.py 
+ 1636  gedit file_to_save.txt 
+ 1637  python stocker.py 
+ 1638  gedit file_to_save.txt 
+ 1639  python stocker.py 
+ 1640  gedit file_to_save.txt 
+ 1641  python stocker.py 
+ 1642  gedit file_to_save.txt 
+ 1643  python stocker.py 
+ 1644  gedit file_to_save.txt 
+ 1645  python stocker.py 
+ 1646  gedit file_to_save.txt 
+ 1647  python stocker.py 
+ 1648  python ex23.py 
+ 1649  cd ../1/practice_python/
+ 1650  python ex23.py 
+ 1651  cd ../../grapher/
+ 1652  python main.py
+ 1653  python main.py test.txr
+ 1654  python main.py test.txt
+ 1655  gedit test.txt 
+ 1656  python main.py test.txt
+ 1657  gedit test.txt 
+ 1658  python main.py test.txt
+ 1659  cd ..
+ 1660  ls
+ 1661  python fft.py 
+ 1662  cd 1/practice_python/
+ 1663  python build_board.py 
+ 1664  clear
+ 1665  python build_board.py 
+ 1666  cd ../../..
+ 1667  cd root/
+ 1668  sys161 kernel
+ 1669  cd ~/
+ 1670  pip install requests
+ 1671  cd workspace/cs3231/asst0-src/kern/conf/
+ 1672  ./config ASST0
+ 1673  cd ../compile/ASST0/
+ 1674  bmake depend
+ 1675  bmake
+ 1676  bmake install
+ 1677  cd ../../../../root/
+ 1678  sys161 kernel
+ 1679  sys161 kernel
+ 1680  cd ../asst0-src/kern/conf/
+ 1681  ls
+ 1682  cd ../main/
+ 1683  gedit hello.c
+ 1684  gedit hello.c &
+ 1685  gedit main.c 
+ 1686  gedit autoconf.h
+ 1687  cd ../conf/
+ 1688  ls
+ 1689  gedit conf.kern 
+ 1690  cd ../compile/ASST0/
+ 1691  bmake
+ 1692  bmake install
+ 1693  sys161 kernel
+ 1694  cd ../../../../
+ 1695  cd root/
+ 1696  sy161 kernel
+ 1697  sys161 kernel
+ 1698  cd ../asst0-src/kern/conf
+ 1699  cd ../compile/ASST0/
+ 1700  bmake 
+ 1701  bmake install
+ 1702  cd ../../../..
+ 1703  cd root/
+ 1704  sys161 kernel
+ 1705  cd ..
+ 1706  cd ../../root/
+ 1707  sys161 kernel
+ 1708  gedit .gdbinit
+ 1709  cd ..
+ 1710  ls
+ 1711  cd asst0-src/kern/compile/ASST0/
+ 1712  asst0
+ 1713  os161-gdb kernel
+ 1714  cd ~/workspace/
+ 1715  gedit .gdbinit
+ 1716  cd cs3231/root/
+ 1717  os161-gdb -q kernel
+ 1718  cd ../asst0-src/kern/conf/
+ 1719  gedit hello.c
+ 1720  ./config ASST0
+ 1721  cd ../compile/ASST0/
+ 1722  bmake depend
+ 1723  bmake
+ 1724  bmake install
+ 1725  cd ~/workspace/cs3231/root/
+ 1726  sys161 kernel
+ 1727  cd ../asst0-src/kern/conf/
+ 1728  ./config ASST0 
+ 1729  cd ../compile/ASST0/
+ 1730  bmake depend
+ 1731  bmake
+ 1732  bmake install
+ 1733  cd ../../..
+ 1734  cd ../root/
+ 1735  sys161 kernel
+ 1736  ls
+ 1737  cd ..
+ 1738  cd asst0-src/kern/conf/
+ 1739  gedit conf.kern
+ 1740  cd ..
+ 1741  cd main/
+ 1742  ls
+ 1743  gedit hello.c
+ 1744  gedit main.c
+ 1745  gedit hello.c 
+ 1746  gedit main.c
+ 1747  cd ..
+ 1748  cd conf/
+ 1749  ./config ASST0 
+ 1750  cd ../compile/ASST0/
+ 1751  bmake depend
+ 1752  bmake
+ 1753  cd ../../conf/
+ 1754  ./config ASST0
+ 1755  cd ../compile/ASST0/
+ 1756  bmake
+ 1757  cd ../../conf/
+ 1758  ./config ASST0 
+ 1759  cd ../compile/ASST0/
+ 1760  bmake depend
+ 1761  bmake
+ 1762  bmake install
+ 1763  ssh z5114817@login.cse.unsw.edu.au
+ 1764  ssh z5114817@login.cse.unsw.edu.au -Y
+ 1765  ssh z5114817@login.cse.unsw.edu.au
+ 1766  ssh z5114817@login.cse.unsw.au
+ 1767  ssh z5114817@login.cse.unsw.edu.au
+ 1768  cd root/
+ 1769  sys161 kernel
+ 1770  os161-gdb kernel
+ 1771  gedit .gdbinit 
+ 1772  os161-gdb kernel
+ 1773  sudo apt-get upgrade gdb
+ 1774  os161-gdb kernel
+ 1775  cd ../asst0-src/kern/main/
+ 1776  ls
+ 1777  gedit hello.c
+ 1778  cd ..
+ 1779  cd compile/ASST0/
+ 1780  bmake
+ 1781  bmake install
+ 1782  ssh z5114817@login.cse.unsw.edu.au
+ 1783  cd workspace/cs3231/
+ 1784  cd asst0-src/kern/main
+ 1785  ls
+ 1786  gedit main.c &
+ 1787  gedit hello.c 
+ 1788  cd ../conf/
+ 1789  gedit conf.kern 
+ 1790  ./config ASST0 
+ 1791  cd ../compile/ASST0/
+ 1792  bmake depend
+ 1793  bmake
+ 1794  bmake install
+ 1795  cd ../../..
+ 1796  bmake
+ 1797  cd ../root/
+ 1798  sys161 kernel
+ 1799  cd ../asst0-src/
+ 1800  ./configure 
+ 1801  cd kern/conf/
+ 1802  ./config ASST0 
+ 1803  cd ../compile/ASST0/
+ 1804  bmake depend
+ 1805  bmake
+ 1806  bmake install
+ 1807  cd ../../..
+ 1808  bmake
+ 1809  cd ../root/
+ 1810  sys161 kernel
+ 1811  ssh z5114817@login.cse.unsw.edu.au -Y
+ 1812  cd workspace/python/grapher/
+ 1813  python main.py
+ 1814  python main.py test.txt 
+ 1815  cd ../stocker/
+ 1816  python stocker.py 
+ 1817  prolog
+ 1818  cd workspace/etc/
+ 1819  ls
+ 1820  ./run.sh
+ 1821  sudo ./run.sh
+ 1822  sudo run.sh
+ 1823  sudo ./run.sh
+ 1824  ls
+ 1825  sudo ./do.sh
+ 1826  python bot.py 
+ 1827  chmod +x bot.py
+ 1828  python bot.py 
+ 1829  python bot.py main
+ 1830  python bot.py 
+ 1831  sudo apt-get python
+ 1832  sudo apt-get install python
+ 1833  sudo apt-get install python3
+ 1834  python3 bot.py 
+ 1835  python2 bot.py 
+ 1836  python3 bot.py 
+ 1837  ssh ubuntu@52.63.101.213
+ 1838  ssh ubuntu@52.63.101.213 -Y
+ 1839  ssh ubuntu@52.63.101.213
+ 1840  cd workspace/etc/
+ 1841  LS
+ 1842  ls
+ 1843  python3 botv2.py 
+ 1844  ssh z5114817@login.cse.unsw.edu.au
+ 1845  cd workspace/etc/
+ 1846  python3 botv2.py 
+ 1847  cd ../python/stocker/
+ 1848  python3 stocker.py 
+ 1849  clear
+ 1850  cd ~/\
+ 1851  cd ~/
+ 1852  prolog
+ 1853  cd /tmp
+ 1854  wget -O sublimeprolog.tar.gz http://github.com/alnkpa/sublimeprolog/tarball/master
+ 1855  tar -xzvf sublimeprolog.tar.gz
+ 1856  cd alnkpa-sublimeprolog-<commit>
+ 1857  cd alnkpa-sublimeprolog-29a6f0b/
+ 1858  mv Prolog.tmLanguage ~/.config/sublime-text-2/Packages/User/
+ 1859  ls
+ 1860  mv Prolog.sublime-build ~/.config/sublime-text-2/Packages/User/
+ 1861  mv Prolog.tmLanguage ~/.config/sublime-text-2/Packages/User/
+ 1862  cd ..
+ 1863  ls
+ 1864  cd alnkpa-sublimeprolog-29a6f0b/
+ 1865  ls -al
+ 1866  cd ..
+ 1867  tar -xzvf sublimeprolog.tar.gz
+ 1868  cd alnkpa-sublimeprolog-29a6f0b/
+ 1869  cd support/
+ 1870  ls
+ 1871  mv Prolog.tmLanguage ~/.config/sublime-text-2/Packages/User/
+ 1872  mv Prolog.tmLanguage ~/.config/sublime-text-3/Packages/User/
+ 1873  cd ~/workspace/cs3411/prolog/
+ 1874  clear
+ 1875  cat ex1.pl 
+ 1876  prolog -s ex1.pl 
+ 1877  sqlite3 schema.swl
+ 1878  sqlite3 schema.sql
+ 1879  sudo apt install sqlite3
+ 1880  sqlite3 schema.sql
+ 1881  gedit schema.sql 
+ 1882  sqlite3 schema.sql 
+ 1883  sqlite schema.sql 
+ 1884  ssh z5114817@login.cse.unsw.edu.au
+ 1885  ssh z5114817@grieg.cse.unsw.edu.au
+ 1886  clear
+ 1887  cd workspace/cs3411/ass1/
+ 1888  prolog -s ex1.pl 
+ 1889  prolog -s ass1.pl 
+ 1890  cd workspace/cs3411/ass1/
+ 1891  prolog -s ass1.pl 
+ 1892  clear
+ 1893  prolog -s ass1.pl 
+ 1894  cd workspace/cs3411/ass1/
+ 1895  prolog -s ass1.pl 
+ 1896  clear
+ 1897  prolog -s ass1.pl 
+ 1898  clear
+ 1899  prolog -s ass1.pl 
+ 1900  cd workspace/cs3411/ass1/
+ 1901  prolog -s ass1.pl 
+ 1902  cd workspace/cs3411/ass1/
+ 1903  prolog -s ass1.pl 
+ 1904  cd workspace/cs3411/ass1/
+ 1905  prolog -s ass1.pl 
+ 1906  cd ~/
+ 1907  gedit .profile 
+ 1908  cd ../../../../
+ 1909  cd asst1-src/root
+ 1910  cd root/
+ 1911  sys161 kernel
+ 1912  sys161 kernel "1a;q"
+ 1913  man lock
+ 1914  161man lock
+ 1915  sys161 kernel "1a;q"
+ 1916  ssh z5114817@login.unsw.edu.au
+ 1917  ssh z5114817@login.cse.unsw.edu.au
+ 1918  ssh z5114817@login.cse.unsw.edu.au -Y
+ 1919  cd ~/cs3231/asst1-src
+ 1920  ./configure
+ 1921  cd ~/cs3231/asst1-src/kern/conf
+ 1922  ./config ASST1
+ 1923  cd ../compile/ASST1
+ 1924  bmake depend
+ 1925  bmake
+ 1926  bmake install
+ 1927  gedit ~/cs3231/root/sys161.conf 
+ 1928  cd ~/cs3231/root
+ 1929  sys161 kernel
+ 1930  sys161 kernel "la;q"
+ 1931  sys161 kernel la;q
+ 1932  sys161 kernel 1a;q
+ 1933  cd ~/cs3231/asst1-src/kern/asst1/
+ 1934  ls
+ 1935  gedit math.c &
+ 1936  cd ../compile/ASST1
+ 1937  bmake && bmake install
+ 1938  ls
+ 1939  bmake && bmake install
+ 1940  cd workspace/cs3411/ass1/
+ 1941  prolog -s ass1.pl 
+ 1942  cd workspace/python/acm/wk1/
+ 1943  python3 a.py
+ 1944  python
+ 1945  python3 a.py
+ 1946  clear
+ 1947  python3 a.py
+ 1948  python a.py
+ 1949  python3 a.py
+ 1950  cd ~/workspace/cs3411/ass1/
+ 1951  prolog -s ass1.pl 
+ 1952  cd ~/workspace/cs3411/ass1/
+ 1953  prolog -s ass1.pl 
+ 1954  cd ~/workspace/cs3411/ass1/
+ 1955  prolog -s ass1.pl 
+ 1956  cd ~/workspace/cs3411/ass1/
+ 1957  prolog -s ass1.pl 
+ 1958  cd ~/workspace/cs3411/ass1/
+ 1959  prolog -s ass1.pl 
+ 1960  cd ~/workspace/cs3411/ass1/
+ 1961  prolog -s ass1.pl 
+ 1962  clear
+ 1963  prolog -s ass1.pl 
+ 1964  cd ~/workspace/cs3411/ass1/
+ 1965  prolog -s ass1.pl 
+ 1966  cd ~/workspace/cs3411/ass1/
+ 1967  prolog -s ass1.pl 
+ 1968  prolog ass1.pl 
+ 1969  prolog -s ass1.pl 
+ 1970  prolog -sv ass1.pl 
+ 1971  prolog -v ass1.pl 
+ 1972  sudo apt-get install prolog
+ 1973  sudo apt-get install swi-prolog
+ 1974  sudo apt-get remove swi-prolog
+ 1975  sudo apt-get install swi-prolog
+ 1976  prolog -v ass1.pl 
+ 1977  prolog -s ass1.pl 
+ 1978  swi-prolog -s ass1.pl 
+ 1979  swi-prolog
+ 1980  swi
+ 1981  swipl
+ 1982  swipl -s ass1.pl 
+ 1983  swipl ass1.pl 
+ 1984  swipl
+ 1985  prolog
+ 1986  prolog -s ass1.pl 
+ 1987  prolog
+ 1988  prolog -s ass1.pl 
+ 1989  cd ~/workspace/cs3411/ass1/
+ 1990  prolog -s ass1.pl 
+ 1991  cd ~/workspace/cs3411/ass1/
+ 1992  prolog -s ass1.pl 
+ 1993  cd ~/workspace/cs3411/ass1/
+ 1994  prolog -s ass1.pl 
+ 1995  cd ~/workspace/cs3411/ass1/
+ 1996  prolog -s ass1.pl 
+ 1997  cd ~/workspace/cs3411/ass1/
+ 1998  prolog -s ass1.pl 
+ 1999  cd ~/workspace/cs3411/ass1/
+ 2000  prolog -s ass1.pl 
+ 2001  clear
+ 2002  cd ~/workspace/python/stocker/
+ 2003  python3 stockerv2.py 
+ 2004  python stockerv2.py 
+ 2005  pip install fix_yahoo_finance --upgrade --no-cache-dir
+ 2006  clear
+ 2007  python stockerv2.py 
+ 2008  clear
+ 2009  python3 stockerv2.py 
+ 2010  python3.4 stockerv2.py 
+ 2011  python3.5 stockerv2.py 
+ 2012  python stockerv2.py 
+ 2013  python3 stockerv2.py 
+ 2014  python3.5 stockerv2.py 
+ 2015  pip install pandas
+ 2016  python3.5 stockerv2.py 
+ 2017  pip install pandas-datareader
+ 2018  python3.5 stockerv2.py 
+ 2019  python stockerv2.py 
+ 2020  python3.5 stockerv2.py 
+ 2021  python stockerv2.py 
+ 2022  python3.5 stockerv2.py 
+ 2023  python stockerv2.py 
+ 2024  \
+ 2025  python stockerv2.py 
+ 2026  pip install Yahoo-ticker-downloader
+ 2027  YahooTickerDownloader.py stocks
+ 2028  ls
+ 2029  gedit stocks.pickle 
+ 2030  YahooTickerDownloader.py stocks -e test.txt
+ 2031  YahooTickerDownloader.py stocks -e
+ 2032  python stockerv2.py 
+ 2033  python3.5 stockerv2.py 
+ 2034  python stockerv2.py 
+ 2035  python stockerv2.py 2018-03-20
+ 2036  python stockerv2.py '2018-03-20'
+ 2037  python stockerv2.py 2018-03-20
+ 2038  python stockerv2.py 2018-03-20 2018-03-25
+ 2039  python stockerv2.py 2018-03-26 2018-03-26
+ 2040  python stockerv2.py 2018-03-19 2018-03-23
+ 2041  python stockerv2.py 2018-03-26 2018-03-26
+ 2042  python stockerv2.py 2018-03-20 2018-03-25
+ 2043  sudo apt-get install python3-matplotlib
+ 2044  sudo apt-get install python-matplotlib
+ 2045  python stockerv2.py 2018-03-20 2018-03-25
+ 2046  python stockerv2.py 2018-03-1 2018-03-25
+ 2047  python stockerv2.py 2018-02-1 2018-03-25
+ 2048  python stockerv2.py 2017-02-1 2018-03-25
+ 2049  clear
+ 2050  pip install oandapy
+ 2051  sudo apt-get upgrade pip
+ 2052  pip install --upgrade pip
+ 2053  pip install oandapy
+ 2054  pip install oanda
+ 2055  pip install oandapy3
+ 2056  cd ~/
+ 2057  gedit oanda.cfg
+ 2058  pip install v20
+ 2059  rm oanda.cfg 
+ 2060  pip install v20
+ 2061  sudo pip install v20
+ 2062  clear
+ 2063  cd workspace/python/stocker/
+ 2064  python stockerv3.py
+ 2065  pip install configparser
+ 2066  python3 stockerv3.py
+ 2067  pip install oandapyV20
+ 2068  clear
+ 2069  python2 stockerv3.py
+ 2070  python stockerv3.py
+ 2071  pip install oandapyV20
+ 2072  sudo pip install oandapyV20
+ 2073  c;ear
+ 2074  clear
+ 2075  python stockerv3.py
+ 2076  python3 stockerv3.py
+ 2077  sudo pip install oandapyV20 -H
+ 2078  sudo pip install oandapyV20
+ 2079  sudo pip -H install oandapyV20
+ 2080  sudo pip install -H oandapyV20
+ 2081  clear
+ 2082  cd ~/
+ 2083  sudo pip install -H oandapyV20
+ 2084  sudo pip install oandapyV20
+ 2085  cd workspace/python/stocker/
+ 2086  python3 stockerv3.py
+ 2087  python stockerv3.py
+ 2088  sudo pip install configparser
+ 2089  python stockerv3.py
+ 2090  clear
+ 2091  sudo -H pip install configparser
+ 2092  sudo -H pip --upgrade configparser
+ 2093  sudo -H pip install --upgrade configparser
+ 2094  sudo -H pip install --upgrade pip
+ 2095  sudo -H pip install --upgrade configparser
+ 2096  python stockerv3.py
+ 2097  python2.7 stockerv3.py
+ 2098  python3 stockerv3.py
+ 2099  clear
+ 2100  python stockerv3.py
+ 2101  sudo -H pip install oandapyV20
+ 2102  python stockerv3.py
+ 2103  python2.7 stockerv3.py
+ 2104  python2.5 stockerv3.py
+ 2105  python3.5 stockerv3.py
+ 2106  clear
+ 2107  python3.5 stockerv3.py
+ 2108  sudo -H pip install --upgrade oandapyV20
+ 2109  python3.5 stockerv3.py
+ 2110  python2.7 stockerv3.py
+ 2111  clear
+ 2112  python2.7 stockerv3.py
+ 2113  cd ~/
+ 2114  gedit oanda.cfg
+ 2115  cd workspace/python/stocker/
+ 2116  gedit oanda.cfg
+ 2117  python stockerv3.py
+ 2118  python3 stockerv3.py
+ 2119  python stockerv3.py
+ 2120  pip install oandapyV20
+ 2121  sudo pip install oandapyV20
+ 2122  python2.7 stockerv3.py
+ 2123  sudo python2.7 stockerv3.py
+ 2124  sudo python3 stockerv3.py
+ 2125  sudo python2.7 stockerv3.py
+ 2126  sudo pip install seaborn
+ 2127  sudo python2.7 stockerv3.py
+ 2128  sudo python2.7 stockerv3.py 2018 03 20
+ 2129  sudo python2.7 stockerv3.py 2018 03 24
+ 2130  sudo python2.7 stockerv3.py 2018 03 24 2018 03 25
+ 2131  sudo python2.7 stockerv3.py 2018 03 21 2018 03 26
+ 2132  sudo python2.7 stockerv3.py 2018 03 22 2018 03 26
+ 2133  sudo python2.7 stockerv3.py 2018 03 23 2018 03 26
+ 2134  sudo python2.7 stockerv3.py 2017 03 23 2018 03 26
+ 2135  python stockerv2.py 2018-03-20
+ 2136  python stockerv2.py 2017-03-20 2018-03-20
+ 2137  python stockerv2.py 2018-03-20 2018-03-25
+ 2138  python stockerv2.py 2017-03-20 2018-03-25
+ 2139  python stockerv2.py 2011-03-20 2018-03-25
+ 2140  ssh z5114817@login.cse.unsw.edu.au
+ 2141  ssh z5114817@login.cse.unsw.edu.au -Y
+ 2142  history > myHistory.txt

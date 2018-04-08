@@ -1,0 +1,898 @@
+- {Exchange: PNK, Name: AD PEPPER MEDIA IN EUR0.05, Ticker: ADPMF, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: MHGFAD.OL, categoryName: ''}
+- {Exchange: PNK, Name: 'Anpath Group, Inc., Prior to Reverse Merger with Q2Power,
+    Inc.', Ticker: APGR, categoryName: ''}
+- {Exchange: FRA, Name: Abengoa SA, Ticker: AYO.DE, categoryName: ''}
+- {Exchange: ASX, Name: NWR.AX, Ticker: NWR.AX, categoryName: ''}
+- {Exchange: OSL, Name: Statoil ASA, Ticker: STLFUT.OL, categoryName: ''}
+- {Exchange: SAO, Name: Visa Inc., Ticker: VISA34F.SA, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: 5238@OM.KL, categoryName: ''}
+- {Exchange: LSE, Name: The Lebanese Company for the Development and Reconstruction
+    of Beirut Central District S.A.L., Ticker: SLED.L, categoryName: ''}
+- {Exchange: VIE, Name: EB OE TL.Z./NTX, Ticker: E97F.VI, categoryName: ''}
+- {Exchange: FRA, Name: ASICS Corporation, Ticker: ASI1.F, categoryName: ''}
+- {Exchange: OBB, Name: SMSA Ballinger Acquisition Corp., Ticker: SMQA, categoryName: ''}
+- {Exchange: PNK, Name: Antares Energy Limited, Ticker: AZZEF, categoryName: ''}
+- {Exchange: TOR, Name: Allana Potash Corp., Ticker: AAA.TO, categoryName: ''}
+- {Exchange: VAN, Name: AM Gold Inc, Ticker: AMG.V, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: 0175-OL.HK, categoryName: ''}
+- {Exchange: LSE, Name: Prime Active Capital plc., Ticker: PACC.L, categoryName: ''}
+- {Exchange: PNK, Name: 'AmeriWorks, Inc.', Ticker: AWKS, categoryName: ''}
+- {Exchange: PNK, Name: Scoobeez Global Inc., Ticker: ABOT, categoryName: ''}
+- {Exchange: PNK, Name: Integrated Research Limited, Ticker: IREHF, categoryName: ''}
+- {Exchange: PNK, Name: 'Accordia Golf Co., Ltd.', Ticker: ACGFF, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: KLVI.MU, categoryName: ''}
+- {Exchange: VAN, Name: Kona Bay Technologies Inc., Ticker: AKM.V, categoryName: ''}
+- {Exchange: NMS, Name: Republic Airways Holdings Inc., Ticker: RJET, categoryName: ''}
+- {Exchange: PNK, Name: Lithium Power International Limited, Ticker: LTHHF, categoryName: ''}
+- {Exchange: VAN, Name: Power Metals Corp., Ticker: ALN.V, categoryName: ''}
+- {Exchange: PNK, Name: 'Aquentium, Inc.', Ticker: AQNM, categoryName: ''}
+- {Exchange: PNK, Name: 'Umbra Applied Technologies Group, Inc.', Ticker: UATG, categoryName: ''}
+- {Exchange: PNK, Name: 'Adaptive Medias, Inc.', Ticker: ADTM, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: TSLB.BE, categoryName: ''}
+- {Exchange: GER, Name: Apple Inc., Ticker: APC.DE, categoryName: Electronic Equipment}
+- {Exchange: VAN, Name: Alhambra Resources Ltd., Ticker: ALH.V, categoryName: ''}
+- {Exchange: PNK, Name: ARBOR ENTECH CORP, Ticker: ARBE, categoryName: ''}
+- {Exchange: PNK, Name: ARM Holdings plc, Ticker: ARMHF, categoryName: ''}
+- {Exchange: PNK, Name: 'Affirmative Insurance Holdings, Inc.', Ticker: AFFMQ, categoryName: ''}
+- {Exchange: PNK, Name: Daimler AG, Ticker: DDAIY, categoryName: ''}
+- {Exchange: ASX, Name: eChoice Limited, Ticker: ECO.AX, categoryName: ''}
+- {Exchange: PNK, Name: 'ARYx Therapeutics, Inc.', Ticker: ARYX, categoryName: Drug
+    Manufacturers - Other}
+- {Exchange: LSE, Name: Pacific Alliance Asia Opportunity Fund Limited, Ticker: PAX.L,
+  categoryName: ''}
+- {Exchange: VAN, Name: Ashanti Sankofa Inc., Ticker: AMU.V, categoryName: ''}
+- {Exchange: PNK, Name: 'Armco Metals Holdings, Inc', Ticker: AMCO, categoryName: Basic
+    Materials Wholesale}
+- {Exchange: ENX, Name: A7L3Z.NX, Ticker: A7L3Z.NX, categoryName: ''}
+- {Exchange: PNK, Name: AHMS, Ticker: AHMS, categoryName: ''}
+- {Exchange: EBS, Name: Swiss Finance & Property Investment AG, Ticker: SFPN.SW, categoryName: ''}
+- {Exchange: PNK, Name: Emlak Konut Gayrimenkul Yatirim Ortakligi AS, Ticker: EKKGF,
+  categoryName: ''}
+- {Exchange: OBB, Name: REMO, Ticker: REMO, categoryName: ''}
+- {Exchange: PNK, Name: 'Precision Auto Care, Inc.', Ticker: PACI, categoryName: ''}
+- {Exchange: PNK, Name: AMERITRANS CAP COR 9.375% PFD U, Ticker: AMTCP, categoryName: ''}
+- {Exchange: ASX, Name: Nevada Iron Ltd., Ticker: NVI.AX, categoryName: ''}
+- {Exchange: HAM, Name: BURU ENERGY LTD., Ticker: BUD.HM, categoryName: ''}
+- {Exchange: GER, Name: VSG Vange Software Group AG, Ticker: VWA.DE, categoryName: ''}
+- {Exchange: BSE, Name: 52 Weeks Entertainment Limited, Ticker: SHAQUAK.BO, categoryName: ''}
+- {Exchange: PNK, Name: AVJENNINGS LIMITED NPV, Ticker: AQBKF, categoryName: ''}
+- {Exchange: LSE, Name: Fraport AG, Ticker: 0O1R.L, categoryName: ''}
+- {Exchange: NMS, Name: American Science & Engineering Inc., Ticker: ASEI, categoryName: ''}
+- {Exchange: PNK, Name: 'Peer Review Mediation and Arbitration, Inc.', Ticker: PRVW,
+  categoryName: ''}
+- {Exchange: PNK, Name: 'Advanced Deposition Technologies, Inc.', Ticker: ADTCQ, categoryName: ''}
+- {Exchange: ASX, Name: NGX.AX, Ticker: NGX.AX, categoryName: ''}
+- {Exchange: VAN, Name: Avino Silver & Gold Mines Ltd., Ticker: ASM.V, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: VAN, Name: North American Tungsten Corp. Ltd., Ticker: NTC.V, categoryName: ''}
+- {Exchange: PNK, Name: North American Gold & Minerals Fund, Ticker: NMGL, categoryName: ''}
+- {Exchange: ASX, Name: SmartTrans Holdings Limited, Ticker: SMA.AX, categoryName: Technical
+    & System Software}
+- {Exchange: GER, Name: Asian Bamboo AG, Ticker: 5AB.DE, categoryName: ''}
+- {Exchange: PNK, Name: 'Biotech Products Services and Research, Inc.', Ticker: BPSR,
+  categoryName: Recreational Vehicles}
+- {Exchange: PNK, Name: Petrosibir AB (publ), Ticker: SHPEF, categoryName: ''}
+- {Exchange: TOR, Name: 2242749 Ontario Limited, Ticker: ARF.TO, categoryName: ''}
+- {Exchange: FRA, Name: SERVICE STREAM LTD, Ticker: UFY.F, categoryName: ''}
+- {Exchange: ENX, Name: A87SZ.NX, Ticker: A87SZ.NX, categoryName: ''}
+- {Exchange: PNK, Name: Alexandria Advantage Warranty Company, Ticker: AAWC, categoryName: ''}
+- {Exchange: GER, Name: 'Amazon.com, Inc.', Ticker: AMZ.DE, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: YOU.SG, categoryName: ''}
+- {Exchange: VAN, Name: J.A.G. Mines Ltd, Ticker: JML.V, categoryName: ''}
+- {Exchange: STO, Name: Wilson ASA, Ticker: WILSO.ST, categoryName: ''}
+- {Exchange: PNK, Name: 'Dougherty''s Pharmacy, Inc.', Ticker: ASDS, categoryName: ''}
+- {Exchange: LSE, Name: AMA.L, Ticker: AMA.L, categoryName: ''}
+- {Exchange: ASX, Name: PanAust Limited, Ticker: PNA.AX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: TPET.L, categoryName: ''}
+- {Exchange: PNK, Name: IFS AB SER'B'NPV, Ticker: IAFSF, categoryName: ''}
+- {Exchange: BER, Name: ACKROO INC., Ticker: 3CKN.BE, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: TBR.DE, categoryName: ''}
+- {Exchange: PNK, Name: Axesstel Inc., Ticker: AXST, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: W-A.TO, categoryName: ''}
+- {Exchange: VAN, Name: Alternative Earth Resources Inc., Ticker: AER.V, categoryName: ''}
+- {Exchange: PNK, Name: 'Wisdom Homes of America, Inc.', Ticker: WOFAD, categoryName: ''}
+- {Exchange: BER, Name: 'AWOX S.A. EO -,25', Ticker: 2AW.BE, categoryName: ''}
+- {Exchange: ASX, Name: Oilex Ltd, Ticker: OEX.AX, categoryName: Independent Oil &
+    Gas}
+- {Exchange: PNK, Name: Argentex Mining Corporation, Ticker: AGXMF, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: AV7.BE, categoryName: ''}
+- {Exchange: PNK, Name: 'Artec, Inc.', Ticker: ATKJ, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: SUD-A.V, categoryName: ''}
+- {Exchange: NCM, Name: 'China Housing and Land Development, Inc.', Ticker: CHLN,
+  categoryName: ''}
+- {Exchange: PNK, Name: Anoteros Inc., Ticker: ANOS, categoryName: ''}
+- {Exchange: OBB, Name: 'Apptigo International, Inc.', Ticker: APPGE, categoryName: ''}
+- {Exchange: MEX, Name: 'Ameriprise Financial, Inc.', Ticker: AMP.MX, categoryName: ''}
+- {Exchange: ASX, Name: Onterran Limited, Ticker: NOD.AX, categoryName: ''}
+- {Exchange: PNK, Name: American Magna Corp., Ticker: AMGC, categoryName: ''}
+- {Exchange: ASX, Name: ENE.AX, Ticker: ENE.AX, categoryName: ''}
+- {Exchange: VIE, Name: RCB OE TrackX2 s Corn, Ticker: LM86.VI, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: N3VN.BE, categoryName: ''}
+- {Exchange: NMS, Name: Ambassadors Group Inc., Ticker: EPAX, categoryName: ''}
+- {Exchange: PNK, Name: Genetic Technologies Limited, Ticker: GNTLF, categoryName: ''}
+- {Exchange: VAN, Name: AQM Copper Inc., Ticker: AQM.V, categoryName: ''}
+- {Exchange: LSE, Name: Salt Lake Potash Limited, Ticker: WHE.L, categoryName: ''}
+- {Exchange: PNK, Name: "AES Tiet\xEA S.A.", Ticker: AESYY, categoryName: ''}
+- {Exchange: ASX, Name: Newhaven Hotels Ltd., Ticker: NHH.AX, categoryName: ''}
+- {Exchange: PNK, Name: Axis Energy Corporation, Ticker: AXGC, categoryName: ''}
+- {Exchange: LSE, Name: Asia Cement Corporation, Ticker: ASCD.L, categoryName: General
+    Building Materials}
+- {Exchange: OSL, Name: Aker BP ASA, Ticker: DETNOR.OL, categoryName: ''}
+- {Exchange: PNK, Name: Gulf Alternative Energy Corp., Ticker: GAEC, categoryName: ''}
+- {Exchange: CPH, Name: Victor International AS, Ticker: VIINT.CO, categoryName: ''}
+- {Exchange: GER, Name: Wacker Chemie AG, Ticker: WCH.DE, categoryName: Chemicals
+    - Major Diversified}
+- {Exchange: VAN, Name: Toachi Mining Inc., Ticker: FEM.V, categoryName: ''}
+- {Exchange: PNK, Name: 'Arista Power, Inc.', Ticker: ASPW, categoryName: Industrial
+    Equipment & Components}
+- {Exchange: TOR, Name: Anderson Energy Inc., Ticker: AXL.TO, categoryName: ''}
+- {Exchange: PNK, Name: IKB Deutsche Industriebank Aktiengesellschaft, Ticker: IKBDF,
+  categoryName: ''}
+- {Exchange: PNK, Name: Algonquin Power & Utilities Corp., Ticker: AQUNF, categoryName: ''}
+- {Exchange: LSE, Name: bwin.party digital entertainment plc, Ticker: BPTY.L, categoryName: ''}
+- {Exchange: PNK, Name: 'Aida Engineering, Ltd.', Ticker: ADERY, categoryName: ''}
+- {Exchange: PNK, Name: Ambient Water Corporation, Ticker: AWGI, categoryName: Pollution
+    & Treatment Controls}
+- {Exchange: PNK, Name: 'American Leisure Holdings, Inc.', Ticker: AMLH, categoryName: ''}
+- {Exchange: VAN, Name: Asante Gold Corporation, Ticker: ASE.V, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: MEX, Name: Alcatel-Lucent, Ticker: ALUN.MX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: STOCD.AX, categoryName: ''}
+- {Exchange: PNK, Name: AREVA SA, Ticker: ARVCF, categoryName: ''}
+- {Exchange: VAN, Name: FSN.V, Ticker: FSN.V, categoryName: ''}
+- {Exchange: ENX, Name: A39KZ.NX, Ticker: A39KZ.NX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: PORK.EX, categoryName: ''}
+- {Exchange: TOR, Name: ATNA Resources Ltd., Ticker: ATN.TO, categoryName: ''}
+- {Exchange: SAO, Name: Excelsior Alimentos S.A., Ticker: BAUH4.SA, categoryName: Food
+    - Major Diversified}
+- {Exchange: PNK, Name: AREVA SA, Ticker: ARVCY, categoryName: ''}
+- {Exchange: PNK, Name: AgriEuro Corp., Ticker: EURI, categoryName: ''}
+- {Exchange: PNK, Name: 'Applied Visual Sciences, Inc.', Ticker: APVS, categoryName: Security
+    & Protection Services}
+- {Exchange: ASE, Name: Bank of America Corporation MIT, Ticker: DFF, categoryName: ''}
+- {Exchange: CPH, Name: Cemat A/S, Ticker: TPSL.CO, categoryName: ''}
+- {Exchange: SES, Name: Universal Resource And Services Limited, Ticker: W81.SI, categoryName: ''}
+- {Exchange: EBS, Name: VPB.SW, Ticker: VPB.SW, categoryName: ''}
+- {Exchange: LSE, Name: Albert Technologies Ltd., Ticker: ALB.L, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: OMED1.BA, categoryName: ''}
+- {Exchange: PNK, Name: A & C United Agriculture Developing Inc., Ticker: ACUG, categoryName: ''}
+- {Exchange: OSL, Name: Petroleum Geo-Services ASA, Ticker: PGSFUT.OL, categoryName: ''}
+- {Exchange: PNK, Name: 'PwrCor, Inc.', Ticker: CSEI, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: A3N1.BE, categoryName: ''}
+- {Exchange: PNK, Name: Americas Silver Corporation, Ticker: SMNPF, categoryName: ''}
+- {Exchange: PNK, Name: Ampal-American Israel Corp., Ticker: AMPLQ, categoryName: ''}
+- {Exchange: ASX, Name: Hexagon Resources Limited, Ticker: LMB.AX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: AYOE.SG, categoryName: ''}
+- {Exchange: VAN, Name: Clean Commodities Corp., Ticker: ASC.V, categoryName: ''}
+- {Exchange: SAO, Name: FINANC/TERMO, Ticker: TAXA358.SA, categoryName: ''}
+- {Exchange: TOR, Name: Alter NRG Corp., Ticker: NRG.TO, categoryName: ''}
+- {Exchange: PNK, Name: 'American First Financial, Inc.', Ticker: AFRS, categoryName: Mortgage
+    Investment}
+- {Exchange: PNK, Name: Kuoni Reisen Holding AG, Ticker: KUIRF, categoryName: ''}
+- {Exchange: ASX, Name: BuyMyPlace.com.au Limited, Ticker: KRA.AX, categoryName: ''}
+- {Exchange: NYQ, Name: A.M. Castle & Co., Ticker: CAS, categoryName: ''}
+- {Exchange: GER, Name: UBS Group AG, Ticker: UBRA.DE, categoryName: ''}
+- {Exchange: ASX, Name: Energy Technologies Limited, Ticker: EGY.AX, categoryName: Diversified
+    Machinery}
+- {Exchange: PNK, Name: 'U.S. Aerospace, Inc.', Ticker: USAE, categoryName: Aerospace/Defense
+    Products & Services}
+- {Exchange: '', Name: '', Ticker: A0BDRX.SG, categoryName: ''}
+- {Exchange: PNK, Name: 'Advanced Battery Technologies, Inc.', Ticker: ABAT, categoryName: ''}
+- {Exchange: ASX, Name: MCS Services Limited, Ticker: RGX.AX, categoryName: ''}
+- {Exchange: PNK, Name: Arkanova Energy Corporation, Ticker: AKVA, categoryName: Oil
+    & Gas Drilling & Exploration}
+- {Exchange: BER, Name: PIEDMONT LITHIUM, Ticker: PL4.BE, categoryName: ''}
+- {Exchange: NCM, Name: Adept Technology Inc., Ticker: ADEP, categoryName: ''}
+- {Exchange: MIL, Name: Alba S.p.A., Ticker: APE.MI, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: ADRL.OL, categoryName: ''}
+- {Exchange: PNK, Name: Aquarius Platinum Limited, Ticker: AQPTY, categoryName: ''}
+- {Exchange: NMS, Name: China Gerui Advanced Materials Group Ltd., Ticker: CHOP, categoryName: ''}
+- {Exchange: PNK, Name: Royal Mines and Minerals Corp, Ticker: RYMM, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: MEX, Name: 'Sare Holding, S.A.B. de C.V.', Ticker: SAREB.MX, categoryName: Residential
+    Construction}
+- {Exchange: PNK, Name: Solar Millennium AG, Ticker: SMLNF, categoryName: ''}
+- {Exchange: BER, Name: 'ALTUR INVESTISSEM.EO 2,50', Ticker: TI8.BE, categoryName: ''}
+- {Exchange: PNK, Name: Anglo American plc, Ticker: AAUKY, categoryName: ''}
+- {Exchange: ASX, Name: Galileo Japan Trust, Ticker: GJT.AX, categoryName: ''}
+- {Exchange: VIE, Name: VBPS.VI, Ticker: VBPS.VI, categoryName: ''}
+- {Exchange: ASX, Name: Ausenco Limited, Ticker: AAX.AX, categoryName: ''}
+- {Exchange: PNK, Name: WS Atkins plc, Ticker: WATKF, categoryName: ''}
+- {Exchange: VAN, Name: Avala Resources Ltd., Ticker: AVZ.V, categoryName: ''}
+- {Exchange: VIE, Name: RCB OE TL.Z./Flughafen Wien, Ticker: BE04.VI, categoryName: ''}
+- {Exchange: VAN, Name: Anthem United Inc., Ticker: AFY.V, categoryName: ''}
+- {Exchange: PNK, Name: Loewe AG, Ticker: LOEEF, categoryName: ''}
+- {Exchange: NMS, Name: FNTCU, Ticker: FNTCU, categoryName: ''}
+- {Exchange: ASX, Name: PPN.AX, Ticker: PPN.AX, categoryName: ''}
+- {Exchange: VAN, Name: AAP-P.V, Ticker: AAP-P.V, categoryName: ''}
+- {Exchange: PNK, Name: Midwest Oil & Gas Inc., Ticker: MWOG, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: PNK, Name: 'Rezolute, Inc.', Ticker: ANTB, categoryName: Biotechnology}
+- {Exchange: GER, Name: 'Altria Group, Inc.', Ticker: PHM7.DE, categoryName: 'Tobacco
+    Products, Other'}
+- {Exchange: VAN, Name: Arcan Resources Ltd., Ticker: ARN.V, categoryName: ''}
+- {Exchange: PNK, Name: 'ATWEC Technologies, Inc.', Ticker: ATWT, categoryName: ''}
+- {Exchange: VAN, Name: Infinite Lithium Corp., Ticker: AIX.V, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: LSE, Name: CAISSE REGIONALE DE CREDIT AGRI, Ticker: 0MK6.L, categoryName: ''}
+- {Exchange: LSE, Name: Steel Authority of India Limited, Ticker: SAUD.L, categoryName: Steel
+    & Iron}
+- {Exchange: PNK, Name: 'Texas Oil and Minerals, Inc.', Ticker: TOMI, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: COR.EX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: AAPF.EX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: A0BDRX.HM, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: STB.AX, categoryName: ''}
+- {Exchange: BER, Name: 'ARM HLDGS PLC LS-,0005', Ticker: ARM.BE, categoryName: ''}
+- {Exchange: FRA, Name: Avocet Mining plc, Ticker: MQF.F, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: NMG.OL, categoryName: ''}
+- {Exchange: PNK, Name: Axiom Oil and Gas Corp., Ticker: AXIO, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: PNK, Name: 'Axion International Holdings, Inc.', Ticker: AXIH, categoryName: ''}
+- {Exchange: ENX, Name: AL7LH.NX, Ticker: AL7LH.NX, categoryName: ''}
+- {Exchange: ASX, Name: Aeon Metals Limited, Ticker: AQR.AX, categoryName: ''}
+- {Exchange: PNK, Name: 'Azure Midstream Partners, LP', Ticker: AZUR, categoryName: ''}
+- {Exchange: MUN, Name: 'ARRIS INTL PLC DL -,01', Ticker: AFA.MU, categoryName: ''}
+- {Exchange: PNK, Name: Captiva Verde Industries Ltd., Ticker: ARDWF, categoryName: ''}
+- {Exchange: JKT, Name: PT KMI Wire and Cable Tbk, Ticker: KBLI.JK, categoryName: ''}
+- {Exchange: ASX, Name: Octagonal Resources Limited, Ticker: ORS.AX, categoryName: ''}
+- {Exchange: STO, Name: H & M Hennes & Mauritz AB (publ), Ticker: HMB.ST, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: SLT.AX, categoryName: ''}
+- {Exchange: LSE, Name: ADES International Holding Ltd., Ticker: ADES.L, categoryName: ''}
+- {Exchange: NGM, Name: China Mobile Games and Entertainment Group Limited, Ticker: CMGE,
+  categoryName: ''}
+- {Exchange: PNK, Name: 'Ascent Solar Technologies, Inc.', Ticker: ASTI, categoryName: Semiconductor
+    - Specialized}
+- {Exchange: PNK, Name: PACIFIC ANDES INTL HKD0.10, Ticker: PFAIF, categoryName: ''}
+- {Exchange: '', Name: Aphria Inc., Ticker: APH.V, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: AGIN-M.TA, categoryName: ''}
+- {Exchange: EBS, Name: Pfandbriefbank schweizerischer Hypothekarinstitute AG, Ticker: PB610.SW,
+  categoryName: ''}
+- {Exchange: ASX, Name: Octanex N.L., Ticker: OXXCB.AX, categoryName: ''}
+- {Exchange: PNK, Name: Ackroo Inc., Ticker: VEIFF, categoryName: ''}
+- {Exchange: ASX, Name: Phoenix Gold Limited, Ticker: PXG.AX, categoryName: ''}
+- {Exchange: PNK, Name: Unity Mining Limited, Ticker: BGOMF, categoryName: ''}
+- {Exchange: ASX, Name: MBD Corporation Limited, Ticker: MBD.AX, categoryName: ''}
+- {Exchange: PNK, Name: Carolina Alliance Bank, Ticker: CRLN, categoryName: ''}
+- {Exchange: SAO, Name: The Coca-Cola Company, Ticker: COCA34F.SA, categoryName: ''}
+- {Exchange: PNK, Name: 'As Seen On TV, Inc.', Ticker: ASTV, categoryName: ''}
+- {Exchange: VIE, Name: RCB Disc.Z./K&S 17-19, Ticker: MN17.VI, categoryName: ''}
+- {Exchange: ASX, Name: Westfield Corporation, Ticker: WFD.AX, categoryName: Property
+    Management}
+- {Exchange: STU, Name: Koninklijke Vopak N.V. Aandelen, Ticker: VPK5.SG, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: NDAF.EX, categoryName: ''}
+- {Exchange: VIE, Name: EB OE TL.Z./CONTINENTAL, Ticker: CP65.VI, categoryName: ''}
+- {Exchange: PAR, Name: Orolia SA, Ticker: ALORO.PA, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: DAQ-UN.TO, categoryName: ''}
+- {Exchange: PNK, Name: 'Trans-Pacific Aerospace Company, Inc.', Ticker: TPAC, categoryName: Aerospace/Defense
+    Products & Services}
+- {Exchange: PNK, Name: Applied Development Holdings Limited, Ticker: ADHLY, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: AKZO.HM, categoryName: ''}
+- {Exchange: VIE, Name: 'EB4\,5%ESTOXX50Prot16-20', Ticker: AT0000A1JW15.VI, categoryName: ''}
+- {Exchange: PNK, Name: 'Aventine Renewable Energy Holdings, Inc', Ticker: AVRW, categoryName: ''}
+- {Exchange: PNK, Name: Altona Energy Plc, Ticker: ANRCF, categoryName: ''}
+- {Exchange: STO, Name: Atlas Copco AB, Ticker: ATCOA.ST, categoryName: ''}
+- {Exchange: '', Name: Alterra Power Corp., Ticker: 9ME.F, categoryName: ''}
+- {Exchange: ASX, Name: TBG Diagnostics Limited, Ticker: PGL.AX, categoryName: ''}
+- {Exchange: PNK, Name: American Spectrum Realty Inc., Ticker: AQQSQ, categoryName: ''}
+- {Exchange: OBB, Name: 'American Riding Tours, Inc', Ticker: AMRD, categoryName: ''}
+- {Exchange: ASE, Name: 'American Apparel, Inc.', Ticker: APP, categoryName: ''}
+- {Exchange: PNK, Name: Alabama Power Co., Ticker: ALAWP, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: ELA-UN.TO, categoryName: ''}
+- {Exchange: PNK, Name: 'A1 Group, Inc.', Ticker: AWON, categoryName: ''}
+- {Exchange: PNK, Name: 'Artec Global Media, Inc.', Ticker: ACTL, categoryName: Marketing
+    Services}
+- {Exchange: VAN, Name: Apivio Systems Inc., Ticker: APV.V, categoryName: ''}
+- {Exchange: PNK, Name: ASFBY, Ticker: ASFBY, categoryName: ''}
+- {Exchange: VAN, Name: Adriana Resources Inc., Ticker: ADI.V, categoryName: ''}
+- {Exchange: PNK, Name: Abakan Inc., Ticker: ABKI, categoryName: Industrial Equipment
+    & Components}
+- {Exchange: OSL, Name: Dolphin Group ASA, Ticker: DOLP.OL, categoryName: ''}
+- {Exchange: ASX, Name: Cleanaway Waste Management Limited, Ticker: TPI.AX, categoryName: ''}
+- {Exchange: TOR, Name: St Andrew Goldfields Ltd., Ticker: SAS.TO, categoryName: ''}
+- {Exchange: GER, Name: Activa Resources AG, Ticker: NXI.DE, categoryName: ''}
+- {Exchange: NMS, Name: 'Audience, Inc.', Ticker: ADNC, categoryName: ''}
+- {Exchange: BUE, Name: Nortel Inversora S.A., Ticker: NORT6.BA, categoryName: Wireless
+    Communications}
+- {Exchange: HAM, Name: UMWELTBANK AG O.N., Ticker: UBK.HM, categoryName: ''}
+- {Exchange: VAN, Name: Alloycorp Mining Inc., Ticker: AVT.V, categoryName: ''}
+- {Exchange: ASX, Name: Go Energy Group Limited, Ticker: SOO.AX, categoryName: ''}
+- {Exchange: NCM, Name: Garnero Group Acquisition Company, Ticker: GGACU, categoryName: ''}
+- {Exchange: PNK, Name: ACTIVEnergy Income Fund, Ticker: ATVYF, categoryName: ''}
+- {Exchange: VAN, Name: Automotive Finco Corp., Ticker: AUV.V, categoryName: ''}
+- {Exchange: BER, Name: ARCANDOR AG O.N., Ticker: ARO.BE, categoryName: Department
+    Stores}
+- {Exchange: ASX, Name: Titanium Sands Limited, Ticker: WVL.AX, categoryName: ''}
+- {Exchange: PNK, Name: "Powszechna Kasa Oszczednosci Bank Polski Sp\xF3lka Akcyjna",
+  Ticker: PSZKF, categoryName: ''}
+- {Exchange: STO, Name: ALIV.ST, Ticker: ALIV.ST, categoryName: ''}
+- {Exchange: PNK, Name: AEON Global Health Corp., Ticker: ADAT, categoryName: Healthcare
+    Information Services}
+- {Exchange: PNK, Name: Baltimore Gas and Electric Company, Ticker: BGLEP, categoryName: ''}
+- {Exchange: PNK, Name: Axiom Corp., Ticker: AXMM, categoryName: Technical Services}
+- {Exchange: PNK, Name: Antofagasta plc, Ticker: ANFGY, categoryName: ''}
+- {Exchange: TOR, Name: 'Transat AT, Inc.', Ticker: TRZ-B.TO, categoryName: ''}
+- {Exchange: PNK, Name: Baltimore Gas and Electric Company, Ticker: BGLEN, categoryName: ''}
+- {Exchange: PNK, Name: Baltimore Gas and Electric Company, Ticker: BGLEI, categoryName: ''}
+- {Exchange: PNK, Name: Baltimore Gas and Electric Company, Ticker: BGLEH, categoryName: ''}
+- {Exchange: PNK, Name: American Power Group Corporation, Ticker: APGI, categoryName: ''}
+- {Exchange: NMS, Name: ASM International NV, Ticker: ASMI, categoryName: ''}
+- {Exchange: PNK, Name: Alvarion Ltd., Ticker: ALVRQ, categoryName: ''}
+- {Exchange: PNK, Name: Aurora Gold Corporation, Ticker: ARXG, categoryName: ''}
+- {Exchange: OBB, Name: Cullen Agricultural Holding Corp., Ticker: CAGZ, categoryName: ''}
+- {Exchange: PNK, Name: A.C.N. 004 410 833 Limited, Ticker: ARRMF, categoryName: ''}
+- {Exchange: ENX, Name: AH35H.NX, Ticker: AH35H.NX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: RY4A.HM, categoryName: ''}
+- {Exchange: CPH, Name: BankInvest Optima 55 Akk. KL, Ticker: BAKO55AKKKL.CO, categoryName: ''}
+- {Exchange: '', Name: Papilly AB (publ), Ticker: STRS.ST, categoryName: ''}
+- {Exchange: PNK, Name: Sino United Worldwide Consolidated Ltd., Ticker: AJGH, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: NSGFUT.OL, categoryName: ''}
+- {Exchange: PNK, Name: GT Advanced Technologies Inc., Ticker: GTATQ, categoryName: ''}
+- {Exchange: PNK, Name: GONDWANA RESOURCES NPV, Ticker: GDWNF, categoryName: ''}
+- {Exchange: PNK, Name: 'Cord Blood America, Inc.', Ticker: CBAI, categoryName: Medical
+    Laboratories & Research}
+- {Exchange: STO, Name: Strax AB (publ), Ticker: NOVE.ST, categoryName: ''}
+- {Exchange: OBB, Name: 'Microlin Bio, Inc.', Ticker: AMIB, categoryName: ''}
+- {Exchange: PNK, Name: Strategic Asset Leasing Inc., Ticker: LEAS, categoryName: ''}
+- {Exchange: PNK, Name: Appiphany Technologies Holdings Corp., Ticker: APHD, categoryName: Application
+    Software}
+- {Exchange: NMS, Name: 'Align Technology, Inc.', Ticker: ALGN, categoryName: Medical
+    Appliances & Equipment}
+- {Exchange: SET, Name: 'CW ON SET50 OF BLS # A', Ticker: S5001C1705A.BK, categoryName: ''}
+- {Exchange: ASX, Name: Aditya Birla Minerals Limited, Ticker: ABY.AX, categoryName: ''}
+- {Exchange: LSE, Name: Falkland Oil and Gas Ltd., Ticker: FOGL.L, categoryName: ''}
+- {Exchange: PNK, Name: Atlatsa Resources Corporation, Ticker: ATL, categoryName: ''}
+- {Exchange: ENX, Name: A99KZ.NX, Ticker: A99KZ.NX, categoryName: ''}
+- {Exchange: DOH, Name: The State of Qatar, Ticker: GA06.QA, categoryName: ''}
+- {Exchange: SAO, Name: Avon Products Inc., Ticker: AVON34F.SA, categoryName: ''}
+- {Exchange: VAN, Name: Black Dragon Gold Corp., Ticker: AST.V, categoryName: ''}
+- {Exchange: STO, Name: Nordic Service Partners Holding AB, Ticker: NSP-B.ST, categoryName: ''}
+- {Exchange: '', Name: TRUDP.ME, Ticker: TRUDP.ME, categoryName: ''}
+- {Exchange: PNK, Name: Pan American Goldfields Ltd, Ticker: MXOM, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: PCD.AX, categoryName: ''}
+- {Exchange: PNK, Name: ADELPHIA RECOVERY, Ticker: ADPAK, categoryName: ''}
+- {Exchange: PNK, Name: PetroGas Company, Ticker: AREN, categoryName: ''}
+- {Exchange: LSE, Name: Auhua Clean Energy Plc, Ticker: ACE.L, categoryName: ''}
+- {Exchange: VIE, Name: RCB Disc.Z./Hugo Boss 17-18, Ticker: LK41.VI, categoryName: ''}
+- {Exchange: VAN, Name: Questfire Energy Corp., Ticker: Q-A.V, categoryName: ''}
+- {Exchange: ASX, Name: Samson Oil & Gas Limited, Ticker: SSN.AX, categoryName: Independent
+    Oil & Gas}
+- {Exchange: SES, Name: LionGold Corp Ltd, Ticker: A78.SI, categoryName: Waste Management}
+- {Exchange: ASX, Name: UXC Limited, Ticker: UXC.AX, categoryName: ''}
+- {Exchange: PNK, Name: 'Atomic Paintball, Inc.', Ticker: ATOC, categoryName: Sporting
+    Activities}
+- {Exchange: PNK, Name: Simply Amazing LLC, Ticker: ODDJ, categoryName: ''}
+- {Exchange: STO, Name: Bulten AB (publ), Ticker: BULTEN.ST, categoryName: ''}
+- {Exchange: PNK, Name: 'AU Min Africa PTY, LTD.', Ticker: GRYEF, categoryName: ''}
+- {Exchange: MEX, Name: Aluminum Corporation Of China Limited, Ticker: ACHN.MX, categoryName: Aluminum}
+- {Exchange: PNK, Name: Anfield Gold Corp., Ticker: ANCKF, categoryName: ''}
+- {Exchange: PNK, Name: Evotec AG, Ticker: EVTCY, categoryName: ''}
+- {Exchange: VAN, Name: ePower Metals Inc., Ticker: AML.V, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: PNK, Name: COKAL LIMITED, Ticker: CKALF, categoryName: ''}
+- {Exchange: ASX, Name: Siburan Resources Limited, Ticker: SBU.AX, categoryName: Gold}
+- {Exchange: VAN, Name: Tidewater Midstream and Infrastructure Ltd., Ticker: TWM.V,
+  categoryName: ''}
+- {Exchange: '', Name: APSSTAR-B.BO, Ticker: APSSTAR-B.BO, categoryName: ''}
+- {Exchange: OSL, Name: Incus Investor ASA, Ticker: SCI.OL, categoryName: ''}
+- {Exchange: ASX, Name: Kina Petroleum Limited, Ticker: KPL.AX, categoryName: Independent
+    Oil & Gas}
+- {Exchange: PNK, Name: "AES Tiet\xEA S.A.", Ticker: AESAY, categoryName: ''}
+- {Exchange: LSE, Name: Amlin plc, Ticker: AML.L, categoryName: ''}
+- {Exchange: PNK, Name: Fantasy Aces Daily Fantasy Sports Corp., Ticker: PMXRF, categoryName: ''}
+- {Exchange: PNK, Name: 'China Education Alliance, Inc.', Ticker: CEAI, categoryName: ''}
+- {Exchange: ASX, Name: Legacy Iron Ore Limited, Ticker: LCY.AX, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: PNK, Name: Malaysian Airline System Bhd, Ticker: MLYAF, categoryName: ''}
+- {Exchange: PNK, Name: Tamm Oil and Gas Corp., Ticker: TAMO, categoryName: ''}
+- {Exchange: NSI, Name: AMLSTEEL-BE.NS, Ticker: AMLSTEEL-BE.NS, categoryName: ''}
+- {Exchange: NSI, Name: RELIANCE MUTUAL FD DUAL ADVANTA, Ticker: RDAFTIIIDG-MF.NS,
+  categoryName: ''}
+- {Exchange: PNK, Name: Eldorado Artesian Springs Inc., Ticker: ELDO, categoryName: ''}
+- {Exchange: ASX, Name: Payce Consolidated Ltd., Ticker: PAY.AX, categoryName: ''}
+- {Exchange: PNK, Name: Alternative Investment Corporation, Ticker: PRDCD, categoryName: ''}
+- {Exchange: PNK, Name: American Heritage International Inc., Ticker: AHII, categoryName: Cigarettes}
+- {Exchange: '', Name: '', Ticker: AP.MI, categoryName: ''}
+- {Exchange: ASX, Name: Mach7 Technologies Limited, Ticker: 3DM.AX, categoryName: ''}
+- {Exchange: NCM, Name: DT Asia Investments Limited, Ticker: CADT, categoryName: ''}
+- {Exchange: IOB, Name: MEVIS MEDICAL SOLUTIONS AG MEVI, Ticker: 0HI7.IL, categoryName: ''}
+- {Exchange: LSE, Name: Biofrontera AG, Ticker: B8F.L, categoryName: ''}
+- {Exchange: GER, Name: Credit Agricole S.A., Ticker: XCA.DE, categoryName: Money
+    Center Banks}
+- {Exchange: '', Name: House of Friends AB (publ), Ticker: NORDK.ST, categoryName: ''}
+- {Exchange: OBB, Name: 'Armada Oil, Inc.', Ticker: AOIL, categoryName: ''}
+- {Exchange: PNK, Name: Ambassadors International Inc., Ticker: AMIEQ, categoryName: ''}
+- {Exchange: PNK, Name: 'Monarch America, Inc.', Ticker: BTFL, categoryName: Conglomerates}
+- {Exchange: PNK, Name: Kasbah Resources Limited, Ticker: KASBF, categoryName: ''}
+- {Exchange: NGM, Name: Providence and Worcester Railroad Company, Ticker: PWX, categoryName: ''}
+- {Exchange: VAN, Name: AndeanGold Ltd., Ticker: AAU.V, categoryName: ''}
+- {Exchange: ASX, Name: Richfield International Limited, Ticker: RIS.AX, categoryName: ''}
+- {Exchange: ASX, Name: Leigh Creek Energy Limited, Ticker: MTN.AX, categoryName: ''}
+- {Exchange: ASX, Name: Scotgold Resources Limited, Ticker: SGZ.AX, categoryName: ''}
+- {Exchange: PNK, Name: AgriMinco Corp., Ticker: ETPHF, categoryName: ''}
+- {Exchange: PNK, Name: 'Amazonas Florestal, Ltd', Ticker: AZFL, categoryName: ''}
+- {Exchange: VAN, Name: Arak Resources Ltd., Ticker: AAC.V, categoryName: ''}
+- {Exchange: PNK, Name: Alhambra Resources Ltd., Ticker: AHBRF, categoryName: ''}
+- {Exchange: PNK, Name: Aztec Oil & Gas Inc., Ticker: AZGS, categoryName: ''}
+- {Exchange: GER, Name: Alstom SA, Ticker: AOMD.DE, categoryName: Diversified Machinery}
+- {Exchange: PNK, Name: Aksys Ltd., Ticker: AKSY, categoryName: ''}
+- {Exchange: ASX, Name: Unity Mining Limited, Ticker: UML.AX, categoryName: ''}
+- {Exchange: '', Name: TORM A/S, Ticker: TORM.CO, categoryName: ''}
+- {Exchange: PNK, Name: Fincera Inc., Ticker: AUTCF, categoryName: Auto Dealerships}
+- {Exchange: BER, Name: BBVA BCO FR. AP 1 ADR/3, Ticker: BFP.BE, categoryName: ''}
+- {Exchange: ASX, Name: Crestal Petroleum Limited, Ticker: CRX.AX, categoryName: ''}
+- {Exchange: ASX, Name: Arkoma Energy Limited, Ticker: PNE.AX, categoryName: ''}
+- {Exchange: ASX, Name: Verdant Minerals Ltd, Ticker: RUM.AX, categoryName: ''}
+- {Exchange: GER, Name: KTG Agrar SE, Ticker: 7KT.DE, categoryName: ''}
+- {Exchange: PAR, Name: STENTYS S.A., Ticker: STNT.PA, categoryName: Medical Appliances
+    & Equipment}
+- {Exchange: '', Name: '', Ticker: PRON.SW, categoryName: ''}
+- {Exchange: VAN, Name: Elysee Development Corp., Ticker: ASX.V, categoryName: ''}
+- {Exchange: HAM, Name: PLDT INC. SP. ADRS/1 PP 5, Ticker: PLO.HM, categoryName: ''}
+- {Exchange: STU, Name: Elcora Advanced Materials CorpR, Ticker: ELM.SG, categoryName: ''}
+- {Exchange: TOR, Name: NPR-UN.TO, Ticker: NPR-UN.TO, categoryName: ''}
+- {Exchange: PNK, Name: Bergamo Acquisition Corp., Ticker: BGMO, categoryName: ''}
+- {Exchange: PNK, Name: Arch Coal Inc., Ticker: ACIIQ, categoryName: ''}
+- {Exchange: DUS, Name: 'ACTUA CORP. DL-,001', Ticker: IER1.DU, categoryName: ''}
+- {Exchange: '', Name: Jaiprakash Associates Limited, Ticker: JPASSOCIA.NS, categoryName: ''}
+- {Exchange: PNK, Name: Stop Sleep Go Inc., Ticker: IMMA, categoryName: ''}
+- {Exchange: PNK, Name: Indophil Resources NL, Ticker: IPLRF, categoryName: ''}
+- {Exchange: TOR, Name: Amica Mature Lifestyles Inc., Ticker: ACC.TO, categoryName: ''}
+- {Exchange: PNK, Name: Bayerische Motoren Werke Aktiengesellschaft, Ticker: BAMXY,
+  categoryName: ''}
+- {Exchange: ASX, Name: Ante Real Estate Trust, Ticker: RCU.AX, categoryName: ''}
+- {Exchange: FRA, Name: YU4.F, Ticker: YU4.F, categoryName: ''}
+- {Exchange: VAN, Name: WAI Capital Investments Corp., Ticker: WAI.V, categoryName: ''}
+- {Exchange: TOR, Name: 'Transat AT, Inc.', Ticker: TRZ-A.TO, categoryName: ''}
+- {Exchange: STO, Name: Meda AB, Ticker: MEDA-A.ST, categoryName: ''}
+- {Exchange: TOR, Name: WestJet Airlines Ltd., Ticker: WJA-A.TO, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: ATCG.EX, categoryName: ''}
+- {Exchange: PNK, Name: BANK AUDI SAL, Ticker: BQAZF, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: 7TE.SG, categoryName: ''}
+- {Exchange: PNK, Name: Petrotarg AB (publ), Ticker: GROLF, categoryName: ''}
+- {Exchange: VAN, Name: Mainstreet Health Investments Inc., Ticker: KWA.V, categoryName: ''}
+- {Exchange: PNK, Name: Arian Resources Corp., Ticker: GNHRF, categoryName: ''}
+- {Exchange: '', Name: ANDHRABANK6.BO, Ticker: ANDHRABANK6.BO, categoryName: ''}
+- {Exchange: BER, Name: AUSTPAC RES. NL, Ticker: XPC.BE, categoryName: ''}
+- {Exchange: PNK, Name: 'Soul and Vibe Interactive, Inc.', Ticker: SOUL, categoryName: Multimedia
+    & Graphics Software}
+- {Exchange: STO, Name: Trention AB (publ), Ticker: OPCO.ST, categoryName: ''}
+- {Exchange: PNK, Name: 'Solbright Group, Inc.', Ticker: AKDS, categoryName: Semiconductor
+    - Specialized}
+- {Exchange: SES, Name: SUTL Enterprise Limited, Ticker: A02.SI, categoryName: ''}
+- {Exchange: PNK, Name: Auscrete Corporation, Ticker: ASCK, categoryName: Residential
+    Construction}
+- {Exchange: SGO, Name: Falcon ADM General De Fondos SA - Fondo De Inversion Falcom
+    Global Strategy Fund, Ticker: CFIFALCGLB.SN, categoryName: ''}
+- {Exchange: PNK, Name: 'Toyo Tire & Rubber Co., Ltd.', Ticker: TOTRF, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: ITKG.EX, categoryName: ''}
+- {Exchange: GER, Name: NTT Com Security AG, Ticker: AAGN.DE, categoryName: ''}
+- {Exchange: MEX, Name: Qihoo 360 Technology Co. Ltd., Ticker: QIHUN.MX, categoryName: ''}
+- {Exchange: FRA, Name: INDUS Holding AG, Ticker: INH.F, categoryName: General Building
+    Materials}
+- {Exchange: STO, Name: Agellis Group AB, Ticker: AGIS.ST, categoryName: ''}
+- {Exchange: PNK, Name: AVAX Technologies Inc., Ticker: AVXT, categoryName: ''}
+- {Exchange: PNK, Name: ASTRAZENECA SWEDEN DEF PTY, Ticker: AZNDF, categoryName: ''}
+- {Exchange: '', Name: Lions Gate Metals Inc., Ticker: A1DA.F, categoryName: ''}
+- {Exchange: NSI, Name: AXIS BANK INR2, Ticker: AXISBANK-IL.NS, categoryName: ''}
+- {Exchange: ASX, Name: Thred Limited, Ticker: PRA.AX, categoryName: ''}
+- {Exchange: STU, Name: Alternate Health Corp. Register, Ticker: 2AN.SG, categoryName: ''}
+- {Exchange: '', Name: CW3.F, Ticker: CW3.F, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: XGRA9.BA, categoryName: ''}
+- {Exchange: VIE, Name: RCB Disc.Z./VIG 18-19, Ticker: NF04.VI, categoryName: ''}
+- {Exchange: ASX, Name: ZYL.AX, Ticker: ZYL.AX, categoryName: ''}
+- {Exchange: ASX, Name: Range Resources Limited, Ticker: RRS.AX, categoryName: ''}
+- {Exchange: ASX, Name: Yojee Limited, Ticker: SWR.AX, categoryName: ''}
+- {Exchange: VIE, Name: Symrise AG, Ticker: SY1.VI, categoryName: ''}
+- {Exchange: PAR, Name: Pharmagest Interactive SA, Ticker: PHA.PA, categoryName: Technical
+    & System Software}
+- {Exchange: PNK, Name: Ambient Corporation, Ticker: AMBTQ, categoryName: ''}
+- {Exchange: '', Name: hubbr AB (publ), Ticker: VEND-B.ST, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: DXOM2.BA, categoryName: ''}
+- {Exchange: VAN, Name: Anquiro Ventures Ltd., Ticker: AQR-P.V, categoryName: ''}
+- {Exchange: PNK, Name: Amica Mature Lifestyles Inc., Ticker: ACCKF, categoryName: ''}
+- {Exchange: ASX, Name: Zingmobile Group Limited, Ticker: ZMG.AX, categoryName: ''}
+- {Exchange: FRA, Name: "A.P. M\xF8ller - M\xE6rsk A/S", Ticker: DP4B.F, categoryName: ''}
+- {Exchange: ENX, Name: AHS7H.NX, Ticker: AHS7H.NX, categoryName: ''}
+- {Exchange: BER, Name: 'CASH AMER. INTL DL-,10', Ticker: CIG.BE, categoryName: ''}
+- {Exchange: ASX, Name: WAKENBY LTD, Ticker: ILH.AX, categoryName: ''}
+- {Exchange: VAN, Name: 'Anterra Energy, Inc.', Ticker: AE-A.V, categoryName: ''}
+- {Exchange: PNK, Name: Alamo Energy Corp., Ticker: ALME, categoryName: Business Services}
+- {Exchange: OBB, Name: Alamogordo Financial Corp., Ticker: ALMG, categoryName: ''}
+- {Exchange: PNK, Name: 'Alternaturals, Inc.', Ticker: ANAS, categoryName: ''}
+- {Exchange: PNK, Name: Abilene Oil and Gas Limited, Ticker: WOIIF, categoryName: ''}
+- {Exchange: PNK, Name: Consolidated Growth Holdings Limited, Ticker: SBGGF, categoryName: ''}
+- {Exchange: PNK, Name: CONTL COAL LTD SPONS ADR EA REP, Ticker: CGFAY, categoryName: ''}
+- {Exchange: PNK, Name: 'Corix Bioscience, Inc.', Ticker: AHIT, categoryName: ''}
+- {Exchange: NCM, Name: 'Anadigics, Inc.', Ticker: ANAD, categoryName: ''}
+- {Exchange: VAN, Name: Asiamet Resources Limited, Ticker: ARS.V, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: AUZ-UN.TO, categoryName: ''}
+- {Exchange: ASX, Name: Aziana Limited, Ticker: AZK.AX, categoryName: ''}
+- {Exchange: PAR, Name: Alcatel-Lucent, Ticker: ALU.PA, categoryName: ''}
+- {Exchange: STU, Name: HBM Healthcare Investments AG N, Ticker: 5H5A.SG, categoryName: ''}
+- {Exchange: PNK, Name: American Eagle Energy Corporation, Ticker: AMZGQ, categoryName: ''}
+- {Exchange: PNK, Name: Aberdeen Asset Management PLC, Ticker: ABDNF, categoryName: ''}
+- {Exchange: NCM, Name: AR Capital Acquisition Corp., Ticker: AUMAU, categoryName: ''}
+- {Exchange: LSE, Name: "KRUK Sp\xF3lka Akcyjna", Ticker: 0Q3Y.L, categoryName: ''}
+- {Exchange: NSI, Name: Aftek Limited, Ticker: AFTEK.NS, categoryName: ''}
+- {Exchange: LSE, Name: TAG Immobilien AG, Ticker: 0JK4.L, categoryName: ''}
+- {Exchange: '', Name: Starbreeze AB (publ), Ticker: STAR.ST, categoryName: ''}
+- {Exchange: PNK, Name: 'MYnd Analytics, Inc.', Ticker: CNSO, categoryName: ''}
+- {Exchange: SES, Name: Avi-Tech Electronics Limited, Ticker: CT1.SI, categoryName: ''}
+- {Exchange: NMS, Name: Silver Run Acquisition, Ticker: SRAQU, categoryName: ''}
+- {Exchange: STU, Name: Kazia Therapeutics Ltd. Registe, Ticker: AU000000KZA9.SG,
+  categoryName: ''}
+- {Exchange: NMS, Name: 'Aegerion Pharmaceuticals, Inc.', Ticker: AEGR, categoryName: ''}
+- {Exchange: PNK, Name: DEUPF, Ticker: DEUPF, categoryName: ''}
+- {Exchange: ASX, Name: Titan Energy Services Limited, Ticker: TTN.AX, categoryName: ''}
+- {Exchange: PNK, Name: ATNA Resources Ltd., Ticker: ATNAQ, categoryName: ''}
+- {Exchange: NSI, Name: Johnson Controls - Hitachi Air Conditioning India Limited,
+  Ticker: JCHAC.NS, categoryName: Electronic Equipment}
+- {Exchange: '', Name: Sensori AB, Ticker: PDXE.ST, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: YARFUT.OL, categoryName: ''}
+- {Exchange: ASX, Name: The Food Revolution Group Limited, Ticker: CTT.AX, categoryName: ''}
+- {Exchange: ASX, Name: 'TW Holdings Limited, Prior to Reverse Merger with AusCann
+    Group Holdings Ltd', Ticker: TWH.AX, categoryName: ''}
+- {Exchange: OBB, Name: Affinity Mediaworks Corp, Ticker: AFFW, categoryName: ''}
+- {Exchange: VAN, Name: 'Adventure Gold, Inc.', Ticker: AGE.V, categoryName: ''}
+- {Exchange: PNK, Name: 'YBCC, Inc.', Ticker: IPLO, categoryName: ''}
+- {Exchange: LSE, Name: Applied Graphene Materials plc, Ticker: AGM.L, categoryName: Specialty
+    Chemicals}
+- {Exchange: TOR, Name: First Asset CanBanc Split Corp., Ticker: CBU.TO, categoryName: ''}
+- {Exchange: PNK, Name: Affirmative Insurance Holdings Inc., Ticker: AFFM, categoryName: ''}
+- {Exchange: ASX, Name: Lonestar Resources Limited, Ticker: LNR.AX, categoryName: ''}
+- {Exchange: PNK, Name: Sarossa Plc, Ticker: AIOAF, categoryName: ''}
+- {Exchange: ENX, Name: AOZ8H.NX, Ticker: AOZ8H.NX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: AOA.MU, categoryName: ''}
+- {Exchange: PNK, Name: RHI AG, Ticker: RXHKF, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: 7054@OM.KL, categoryName: ''}
+- {Exchange: NMS, Name: 'Advent Software, Inc.', Ticker: ADVS, categoryName: ''}
+- {Exchange: SHH, Name: CHINA UNIVERSAL AS, Ticker: 501036.SS, categoryName: ''}
+- {Exchange: STO, Name: Allgon AB (publ), Ticker: ALLG-B.ST, categoryName: ''}
+- {Exchange: PNK, Name: 'Questar Assessment, Inc.', Ticker: QUSA, categoryName: ''}
+- {Exchange: PNK, Name: 'Altair Nanotechnologies, Inc.', Ticker: ALTI, categoryName: ''}
+- {Exchange: ASX, Name: Protean Wave Energy Ltd, Ticker: SHE.AX, categoryName: ''}
+- {Exchange: VIE, Name: BENE.VI, Ticker: BENE.VI, categoryName: ''}
+- {Exchange: STU, Name: Hunter Group ASA, Ticker: 4BD.SG, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: 0036@OM.KL, categoryName: ''}
+- {Exchange: ASX, Name: White Cliff Minerals Limited, Ticker: WCN.AX, categoryName: Gold}
+- {Exchange: NYQ, Name: 'Alpha Natural Resources, Inc.', Ticker: ANR, categoryName: ''}
+- {Exchange: PNK, Name: 'Accelera Innovations, Inc', Ticker: ACNV, categoryName: ''}
+- {Exchange: ASE, Name: 'Alteva, Inc.', Ticker: ALTV, categoryName: ''}
+- {Exchange: OBB, Name: United American Savings Bank, Ticker: UASB, categoryName: ''}
+- {Exchange: ASE, Name: Arconic Inc., Ticker: AA-P, categoryName: ''}
+- {Exchange: PNK, Name: Danske Bank A/S, Ticker: DNSKY, categoryName: ''}
+- {Exchange: PNK, Name: 'ABCO Energy, Inc.', Ticker: ABCE, categoryName: Semiconductor
+    - Specialized}
+- {Exchange: TOR, Name: Automodular Corp., Ticker: AM.TO, categoryName: ''}
+- {Exchange: PNK, Name: Appiphany Technologies Holdings Corp., Ticker: APHDD, categoryName: ''}
+- {Exchange: ASX, Name: Alcoa Inc., Ticker: AAI.AX, categoryName: ''}
+- {Exchange: PNK, Name: iQ Power Licensing AG, Ticker: IQPOF, categoryName: ''}
+- {Exchange: PNK, Name: Atlas Copco AB, Ticker: ATLCF, categoryName: ''}
+- {Exchange: ASX, Name: Vicinity Centres, Ticker: FDC.AX, categoryName: ''}
+- {Exchange: PNK, Name: 'Internet America, Inc.', Ticker: GEEK, categoryName: ''}
+- {Exchange: PNK, Name: Holmen Aktiebolag (publ), Ticker: HLMNF, categoryName: ''}
+- {Exchange: PNK, Name: 'American Biogenetic Sciences, Inc.', Ticker: MABA, categoryName: ''}
+- {Exchange: ENX, Name: AM2JH.NX, Ticker: AM2JH.NX, categoryName: ''}
+- {Exchange: NYQ, Name: Agria Corporation, Ticker: GRO, categoryName: ''}
+- {Exchange: VAN, Name: Afrasia Mineral Fields Inc., Ticker: AFS-H.V, categoryName: ''}
+- {Exchange: PAR, Name: MT.PA, Ticker: MT.PA, categoryName: ''}
+- {Exchange: TOR, Name: Yield Advantage Income Trust, Ticker: YOU-UN.TO, categoryName: ''}
+- {Exchange: DUS, Name: ABO Wind AG, Ticker: AB9.DU, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: PWRDN.MX, categoryName: ''}
+- {Exchange: PNK, Name: Orexo AB (publ), Ticker: ORXOF, categoryName: ''}
+- {Exchange: PNK, Name: TELEKOM AUSTRIA AG NPV(BR), Ticker: TKMAF, categoryName: ''}
+- {Exchange: VAN, Name: Arian Resources Corp., Ticker: ARC.V, categoryName: ''}
+- {Exchange: STU, Name: 'Airgas, Inc.', Ticker: AAS.SG, categoryName: ''}
+- {Exchange: PNK, Name: Aqua-Pure Ventures Inc., Ticker: AQPVF, categoryName: ''}
+- {Exchange: ASX, Name: LiveTiles Limited, Ticker: MOU.AX, categoryName: ''}
+- {Exchange: PNK, Name: 'Universal Biosensors, Inc.', Ticker: UVBIF, categoryName: ''}
+- {Exchange: NMS, Name: ARM Holdings plc, Ticker: ARMH, categoryName: ''}
+- {Exchange: HAM, Name: NOVITA HEALTHCARE, Ticker: UV7.HM, categoryName: ''}
+- {Exchange: VAN, Name: Arian Silver Corporation, Ticker: AGQ.V, categoryName: ''}
+- {Exchange: STO, Name: Eniro AB (publ), Ticker: ENRO-PREF.ST, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: TRAP.L, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: IPLD.IL, categoryName: ''}
+- {Exchange: VAN, Name: Lumina Gold Corp., Ticker: ODN.V, categoryName: ''}
+- {Exchange: PNK, Name: API Group plc, Ticker: APIGF, categoryName: ''}
+- {Exchange: VAN, Name: Advanced Explorations Inc., Ticker: AXI.V, categoryName: ''}
+- {Exchange: LSE, Name: Abbott Laboratories, Ticker: ABT.L, categoryName: ''}
+- {Exchange: ASX, Name: Alto Metals Limited, Ticker: ENU.AX, categoryName: ''}
+- {Exchange: PNK, Name: 'Experience Art and Design, Inc.', Ticker: EXAD, categoryName: Photographic
+    Equipment & Supplies}
+- {Exchange: PNK, Name: 'QS Energy, Inc.', Ticker: ZERO, categoryName: ''}
+- {Exchange: PNK, Name: LEONI AG, Ticker: LNNNF, categoryName: ''}
+- {Exchange: BSE, Name: AYM Syntex Limited, Ticker: WELSPSY.BO, categoryName: ''}
+- {Exchange: ENX, Name: AE5YH.NX, Ticker: AE5YH.NX, categoryName: ''}
+- {Exchange: SAO, Name: Apple Inc., Ticker: AAPL34F.SA, categoryName: ''}
+- {Exchange: BUE, Name: BlackBerry Limited, Ticker: BBRY.BA, categoryName: ''}
+- {Exchange: VAN, Name: YDreams Global Interactive Technologies Inc, Ticker: ALE.V,
+  categoryName: ''}
+- {Exchange: CPH, Name: Dansk Industri Invest A/S, Ticker: DANTH.CO, categoryName: ''}
+- {Exchange: ENX, Name: "Figeac-Aero Soci\xE9t\xE9 Anonyme", Ticker: ALFIG.PA, categoryName: ''}
+- {Exchange: PNK, Name: Axios Mobile Assets Corp., Ticker: AXBSF, categoryName: ''}
+- {Exchange: PNK, Name: Aurvista Gold Corporation, Ticker: ARVSF, categoryName: ''}
+- {Exchange: GER, Name: DO Deutsche Office AG, Ticker: PMOX.DE, categoryName: ''}
+- {Exchange: FRA, Name: ARDILLA SEGUR GS 2029, Ticker: 7AS.F, categoryName: ''}
+- {Exchange: GER, Name: Praktiker AG, Ticker: PRA.DE, categoryName: ''}
+- {Exchange: IOB, Name: ALPHA BANK SA ALPHA BANK ORD SH, Ticker: 0RCS.IL, categoryName: ''}
+- {Exchange: NMS, Name: 'VEREIT, Inc.', Ticker: ARCP, categoryName: ''}
+- {Exchange: PAR, Name: CNP Assurances SA, Ticker: CNPAL.PA, categoryName: ''}
+- {Exchange: ASE, Name: 'Aberdeen Emerging Markets Smaller Company Opportunities Fund,
+    Inc.', Ticker: ETF, categoryName: ''}
+- {Exchange: PNK, Name: Arcis Resources Corporation, Ticker: ARCS, categoryName: Waste
+    Management}
+- {Exchange: PNK, Name: PT Bakrie & Brothers Tbk, Ticker: PKBAF, categoryName: ''}
+- {Exchange: PNK, Name: Accor S.A., Ticker: ACRFY, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: AD3.MU, categoryName: ''}
+- {Exchange: PNK, Name: 'AVT, Inc.', Ticker: AVTCQ, categoryName: ''}
+- {Exchange: PNK, Name: Axia NetMedia Corporation, Ticker: AXANF, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: PWB-PB.TO, categoryName: ''}
+- {Exchange: PNK, Name: 'AgriVest Americas, Inc', Ticker: AGBRE, categoryName: ''}
+- {Exchange: VAN, Name: Maple Gold Mines Ltd., Ticker: AVA.V, categoryName: Gold}
+- {Exchange: STO, Name: Telia Company AB, Ticker: TLSN.ST, categoryName: ''}
+- {Exchange: NGM, Name: Global-Tech Advanced Innovations Inc., Ticker: GAI, categoryName: ''}
+- {Exchange: ASX, Name: The Star Entertainment Group Limited, Ticker: EGP.AX, categoryName: ''}
+- {Exchange: '', Name: ASHOKLEY6.BO, Ticker: ASHOKLEY6.BO, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: V7I.SG, categoryName: ''}
+- {Exchange: PNK, Name: 'AVT, Inc.', Ticker: AVTC, categoryName: ''}
+- {Exchange: PNK, Name: Komercni Banka AS, Ticker: KMBNY, categoryName: ''}
+- {Exchange: PNK, Name: 'Avantogen Oncology, Inc.', Ticker: AVTO, categoryName: ''}
+- {Exchange: PNK, Name: 'Axiologix, Inc.', Ticker: AXLX, categoryName: Multimedia
+    & Graphics Software}
+- {Exchange: PNK, Name: 'AV Therapeutics, Inc.', Ticker: AVTH, categoryName: ''}
+- {Exchange: ASX, Name: WDS Limited, Ticker: WDS.AX, categoryName: ''}
+- {Exchange: PNK, Name: 'Advanced Environmental Recycling Technologies, Inc.', Ticker: AERT,
+  categoryName: ''}
+- {Exchange: TOR, Name: Axia NetMedia Corporation, Ticker: AXX.TO, categoryName: ''}
+- {Exchange: ASX, Name: MedAdvisor Limited, Ticker: ERD.AX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: NASFUT.OL, categoryName: ''}
+- {Exchange: PNK, Name: 'Tritent International Agriculture, Inc.', Ticker: UNMK, categoryName: ''}
+- {Exchange: LSE, Name: Quintain Estates and Development plc, Ticker: QED.L, categoryName: ''}
+- {Exchange: HAM, Name: RIO TINTO LTD, Ticker: CRA1.HM, categoryName: ''}
+- {Exchange: ENX, Name: AMG9H.NX, Ticker: AMG9H.NX, categoryName: ''}
+- {Exchange: '', Name: 20A.F, Ticker: 20A.F, categoryName: ''}
+- {Exchange: PNK, Name: Roc Oil Company Limited, Ticker: RCILF, categoryName: ''}
+- {Exchange: PNK, Name: 'Medical Alarm Concepts Holding, Inc.', Ticker: MDHI, categoryName: ''}
+- {Exchange: BER, Name: ALKINDO NARATAMA RP 100, Ticker: 9AL.BE, categoryName: ''}
+- {Exchange: LSE, Name: Rensburg AIM VCT Ord, Ticker: RSB.L, categoryName: ''}
+- {Exchange: PNK, Name: Maxar Technologies Ltd., Ticker: MDDWF, categoryName: ''}
+- {Exchange: VIE, Name: EB STOXX Oil&Gas Expr II17-21, Ticker: AT0000A1W8M5.VI, categoryName: ''}
+- {Exchange: VIE, Name: EB OE TL.Z./BRENT CRUDE, Ticker: IU51.VI, categoryName: ''}
+- {Exchange: PNK, Name: Afri Can Marine Minerals Corp., Ticker: AFCMF, categoryName: ''}
+- {Exchange: PNK, Name: XXAAO, Ticker: XXAAO, categoryName: ''}
+- {Exchange: PNK, Name: 'Vegalab, Inc.', Ticker: HPCQ, categoryName: Conglomerates}
+- {Exchange: PNK, Name: Code Green Apparel Corp., Ticker: CGAC, categoryName: ''}
+- {Exchange: ASX, Name: Australian Foundation Investment Company Limited, Ticker: AFI.AX,
+  categoryName: Asset Management}
+- {Exchange: PNK, Name: 'Energy Revenue America, Inc.', Ticker: ERAO, categoryName: ''}
+- {Exchange: ASX, Name: Scantech Ltd., Ticker: SCD.AX, categoryName: ''}
+- {Exchange: PNK, Name: Aderans Company Limited, Ticker: ADRNF, categoryName: ''}
+- {Exchange: VIE, Name: RCB Disc.Z./Steinhoff 17-17, Ticker: LK22.VI, categoryName: ''}
+- {Exchange: '', Name: FNE.F, Ticker: FNE.F, categoryName: ''}
+- {Exchange: PNK, Name: AIB Group PLC, Ticker: AIBSF, categoryName: ''}
+- {Exchange: ASX, Name: Mareterram Limited, Ticker: SYP.AX, categoryName: ''}
+- {Exchange: PNK, Name: 'Advanced Life Sciences Holdings, Inc.', Ticker: ADLS, categoryName: Biotechnology}
+- {Exchange: PNK, Name: William Demant Holding A/S, Ticker: WILLF, categoryName: ''}
+- {Exchange: ASX, Name: Volt Power Group Limited, Ticker: ERJ.AX, categoryName: ''}
+- {Exchange: OSL, Name: Rocksource ASA, Ticker: RGT.OL, categoryName: ''}
+- {Exchange: PNK, Name: Ameristar Network Inc., Ticker: AMWK, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: OEG-A.V, categoryName: ''}
+- {Exchange: PNK, Name: Harrison Vickers and Waterman Inc., Ticker: HVCW, categoryName: Mortgage
+    Investment}
+- {Exchange: PNK, Name: Republic Airways Holdings Inc., Ticker: RJETQ, categoryName: ''}
+- {Exchange: ASX, Name: Ferrum Crescent Limited, Ticker: FCR.AX, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: ENX, Name: AGE1H.NX, Ticker: AGE1H.NX, categoryName: ''}
+- {Exchange: PNK, Name: Alaska Pacific Energy Corp., Ticker: ASKE, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: HAM, Name: SUNSTONE METALS LTD, Ticker: AL9.HM, categoryName: ''}
+- {Exchange: BUE, Name: China Petroleum & Chemical Corp., Ticker: SNP.BA, categoryName: ''}
+- {Exchange: ASX, Name: Sky and Space Global Ltd, Ticker: BUR.AX, categoryName: ''}
+- {Exchange: DUS, Name: Panamax AG, Ticker: PDEK.DU, categoryName: ''}
+- {Exchange: PNK, Name: Property Management Corporation of America, Ticker: PPTG,
+  categoryName: ''}
+- {Exchange: VAN, Name: Canadian Silver Hunter Inc., Ticker: AGH.V, categoryName: ''}
+- {Exchange: ASX, Name: TerraCom Limited, Ticker: GUF.AX, categoryName: ''}
+- {Exchange: DUS, Name: IWB.DU, Ticker: IWB.DU, categoryName: ''}
+- {Exchange: PNK, Name: 'Aja Cannafacturing, Inc.', Ticker: AJAC, categoryName: Biotechnology}
+- {Exchange: LSE, Name: "T\xFCrkiye Is Bankasi Anonim Sirketi", Ticker: TIBD.L, categoryName: Money
+    Center Banks}
+- {Exchange: PNK, Name: Anglo American Platinum Limited, Ticker: AGPPY, categoryName: ''}
+- {Exchange: STU, Name: EVN AG Inhaber-Aktien o.N., Ticker: EVN.SG, categoryName: ''}
+- {Exchange: PNK, Name: The Governor and Company of the Bank of Ireland, Ticker: IREBY,
+  categoryName: ''}
+- {Exchange: ASX, Name: Sacgasco Limited, Ticker: AOC.AX, categoryName: ''}
+- {Exchange: PNK, Name: Arch Biopartners Inc., Ticker: FOIFF, categoryName: ''}
+- {Exchange: PNK, Name: 'Legend Oil and Gas, Ltd.', Ticker: LOGL, categoryName: Independent
+    Oil & Gas}
+- {Exchange: PNK, Name: 'Alpha Natural Resources, Inc.', Ticker: ANRZQ, categoryName: ''}
+- {Exchange: SES, Name: Tiger Airways Holdings Limited, Ticker: J7X.SI, categoryName: ''}
+- {Exchange: ASE, Name: Nuveen New York Dividend Advantage Municipal Fund 2, Ticker: NXK,
+  categoryName: ''}
+- {Exchange: TOR, Name: Aberdeen International Inc., Ticker: AAB.TO, categoryName: Asset
+    Management}
+- {Exchange: SAO, Name: FINANC/TERMO, Ticker: TAXA206.SA, categoryName: ''}
+- {Exchange: ISE, Name: AIB.IR, Ticker: AIB.IR, categoryName: ''}
+- {Exchange: CPH, Name: Strategic Investments A/S, Ticker: STRINV.CO, categoryName: ''}
+- {Exchange: PNK, Name: IBITX Software Inc., Ticker: ALEV, categoryName: ''}
+- {Exchange: PNK, Name: AtheroNova Inc., Ticker: AHRO, categoryName: ''}
+- {Exchange: NCM, Name: 'SinoCoking Coal and Coke Chemical Industries, Inc.', Ticker: SCOK,
+  categoryName: ''}
+- {Exchange: PNK, Name: Power Chips plc, Ticker: PWCHF, categoryName: ''}
+- {Exchange: VAN, Name: Canex Metals Inc., Ticker: NAI.V, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: TELIO.OL, categoryName: ''}
+- {Exchange: ASX, Name: Avenira Limited, Ticker: MAK.AX, categoryName: ''}
+- {Exchange: VAN, Name: African Metals Corporation, Ticker: AFR.V, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: VOCN.AX, categoryName: ''}
+- {Exchange: PNK, Name: Yapi Ve Kredi Bankasi AS, Ticker: YVKAF, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: RJC.BE, categoryName: ''}
+- {Exchange: ASX, Name: Power Resources Ltd., Ticker: PWW.AX, categoryName: ''}
+- {Exchange: GER, Name: Clere AG, Ticker: BAF.DE, categoryName: ''}
+- {Exchange: ENX, Name: AHS5H.NX, Ticker: AHS5H.NX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: QANDA.AX, categoryName: ''}
+- {Exchange: PNK, Name: 'AmbiCom Holdings, Inc.', Ticker: ABHI, categoryName: ''}
+- {Exchange: STO, Name: Transmode AB (publ), Ticker: TRMO.ST, categoryName: ''}
+- {Exchange: OSL, Name: Techstep ASA, Ticker: BIRD.OL, categoryName: ''}
+- {Exchange: BSE, Name: Aditya Birla Chemicals (India) Limited, Ticker: ABCIL.BO,
+  categoryName: ''}
+- {Exchange: VAN, Name: GrowMax Resources Corp., Ticker: BOE.V, categoryName: ''}
+- {Exchange: PNK, Name: AMERICAN CITY BANK COM USD0.01, Ticker: ACBK, categoryName: ''}
+- {Exchange: PNK, Name: 'Daniels Corporate Advisory Company, Inc.', Ticker: DCAC,
+  categoryName: Business Services}
+- {Exchange: SES, Name: Swiber Holdings Limited, Ticker: AK3.SI, categoryName: ''}
+- {Exchange: PNK, Name: Bank Of Ireland Group plc, Ticker: IRLBF, categoryName: ''}
+- {Exchange: PNK, Name: AB Volvo (publ), Ticker: VOLVY, categoryName: ''}
+- {Exchange: PNK, Name: 'AppYea, Inc.', Ticker: APYP, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: SCH.OL, categoryName: ''}
+- {Exchange: TOR, Name: Aston Hill Global Resource Fund, Ticker: OGF-UN.TO, categoryName: ''}
+- {Exchange: ASX, Name: UXA RESOUR FPO, Ticker: UXA.AX, categoryName: ''}
+- {Exchange: ASX, Name: Melbana Energy Limited, Ticker: MEO.AX, categoryName: ''}
+- {Exchange: ASX, Name: LMC.AX, Ticker: LMC.AX, categoryName: ''}
+- {Exchange: PNK, Name: Actelion Ltd, Ticker: ALIOF, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: H9A.MU, categoryName: ''}
+- {Exchange: ASX, Name: Bitcoin Group Limited, Ticker: BCG.AX, categoryName: ''}
+- {Exchange: JKT, Name: PT Duta Anggada Realty Tbk, Ticker: DART.JK, categoryName: ''}
+- {Exchange: PNK, Name: All America Latina Logistica S.A., Ticker: ALLAY, categoryName: ''}
+- {Exchange: BER, Name: IRONBARK ZINC LTD., Ticker: I6O.BE, categoryName: ''}
+- {Exchange: PNK, Name: 'AVP, Inc.', Ticker: AVPI, categoryName: ''}
+- {Exchange: PNK, Name: AICI CAPITAL TRUST 9% PRF 30/9/, Ticker: AICPQ, categoryName: ''}
+- {Exchange: PNK, Name: 'Auxilio, Inc.', Ticker: AUXO, categoryName: Business Services}
+- {Exchange: ASX, Name: Inca Minerals Limited, Ticker: ICG.AX, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: GER, Name: "L'Air\_Liquide\_S.A.", Ticker: AIL.DE, categoryName: Chemicals
+    - Major Diversified}
+- {Exchange: VAN, Name: Bow Energy Ltd., Ticker: ACL.V, categoryName: ''}
+- {Exchange: PNK, Name: AFRN RAINBOW MINLS, Ticker: AFBOF, categoryName: ''}
+- {Exchange: LSE, Name: BlueCrest AllBlue Fund Limited, Ticker: BABU.L, categoryName: ''}
+- {Exchange: ASX, Name: SKILLED Group Limited, Ticker: SKE.AX, categoryName: ''}
+- {Exchange: LSE, Name: BlueCrest AllBlue Fund Limited, Ticker: BABS.L, categoryName: ''}
+- {Exchange: PNK, Name: Anritsu Corp., Ticker: AITUF, categoryName: ''}
+- {Exchange: GER, Name: Accor SA, Ticker: ACR.DE, categoryName: Lodging}
+- {Exchange: ASE, Name: Avalon Rare Metals Inc., Ticker: AVL, categoryName: ''}
+- {Exchange: LSE, Name: Aluminium Bahrain B.S.C., Ticker: 78QZ.L, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: 2085319.MA, categoryName: ''}
+- {Exchange: GER, Name: Powerland AG, Ticker: 1PL.DE, categoryName: ''}
+- {Exchange: PNK, Name: Aroway Energy Inc., Ticker: ARWJF, categoryName: ''}
+- {Exchange: EBS, Name: Dufry AG, Ticker: DUFN.SW, categoryName: ''}
+- {Exchange: DUS, Name: EUROPEAN LITHIUM LTD, Ticker: PF8.DU, categoryName: ''}
+- {Exchange: PNK, Name: American Power Corporation, Ticker: AMPW, categoryName: ''}
+- {Exchange: FRA, Name: Forbo Holding AG, Ticker: FOZN.F, categoryName: ''}
+- {Exchange: NYQ, Name: AllianceBernstein Income Fund, Ticker: ACG, categoryName: ''}
+- {Exchange: EBS, Name: SLOG.SW, Ticker: SLOG.SW, categoryName: ''}
+- {Exchange: OSL, Name: Ganger Rolf ASA, Ticker: GRO.OL, categoryName: ''}
+- {Exchange: ASX, Name: TasFoods Limited, Ticker: ONC.AX, categoryName: ''}
+- {Exchange: PNK, Name: Jade Art Group Inc., Ticker: JADA, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: 'R2:TEKA3S.SA', categoryName: ''}
+- {Exchange: PNK, Name: National Asset Recovery Corp., Ticker: REPO, categoryName: ''}
+- {Exchange: PNK, Name: Deal a Day Group Corp., Ticker: DEEL, categoryName: ''}
+- {Exchange: SES, Name: BRC Asia Limited, Ticker: B03.SI, categoryName: ''}
+- {Exchange: ASX, Name: Oriental Technologies Investment Limited, Ticker: OTI.AX,
+  categoryName: Diversified Machinery}
+- {Exchange: BER, Name: 'ALPHABET INC.CL.A DL-,001', Ticker: ABEA.BE, categoryName: ''}
+- {Exchange: ASX, Name: Crossland Strategic Metals Limited, Ticker: CUX.AX, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: HAM, Name: ALU.HM, Ticker: ALU.HM, categoryName: ''}
+- {Exchange: PAR, Name: "Societe Des Produits Marnier Lapostolle Soci\xE9t\xE9 Anonyme",
+  Ticker: MALA.PA, categoryName: ''}
+- {Exchange: NCM, Name: Garnero Group Acquisition Company, Ticker: GGAC, categoryName: ''}
+- {Exchange: PNK, Name: 'Osage Exploration and Development, Inc.', Ticker: OEDV, categoryName: ''}
+- {Exchange: '', Name: 1V9.F, Ticker: 1V9.F, categoryName: ''}
+- {Exchange: PNK, Name: 'Anpulo Food, Inc.', Ticker: ANPFF, categoryName: ''}
+- {Exchange: STO, Name: PA Resources AB, Ticker: PAR.ST, categoryName: ''}
+- {Exchange: ASX, Name: Grand Gulf Energy Limited, Ticker: GGE.AX, categoryName: Independent
+    Oil & Gas}
+- {Exchange: EBS, Name: CYTN.SW, Ticker: CYTN.SW, categoryName: ''}
+- {Exchange: VAN, Name: Carrie Arran Resources Inc., Ticker: SCO.V, categoryName: ''}
+- {Exchange: OSL, Name: Bulk Invest ASA, Ticker: WBULK.OL, categoryName: ''}
+- {Exchange: PNK, Name: CENTAURUS METALS NPV, Ticker: CTTZF, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: APAM.PA, categoryName: ''}
+- {Exchange: OBB, Name: 'American Brewing Company, Inc.', Ticker: ABRW, categoryName: ''}
+- {Exchange: VAN, Name: San Angelo Oil Limited, Ticker: SAO.V, categoryName: ''}
+- {Exchange: ASX, Name: M2 Group Ltd, Ticker: MTU.AX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: 0RE7.L, categoryName: ''}
+- {Exchange: PNK, Name: 'Avalon Correctional Services, Inc.', Ticker: CITY, categoryName: ''}
+- {Exchange: VAN, Name: Acasti Pharma Inc., Ticker: APO.V, categoryName: ''}
+- {Exchange: PNK, Name: American Media Systems Co., Ticker: AMMS, categoryName: ''}
+- {Exchange: NSI, Name: ADF Foods Limited, Ticker: ADFFOODS.NS, categoryName: Food
+    - Major Diversified}
+- {Exchange: NSI, Name: Advanta Limited, Ticker: ADVANTA.NS, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: V7I.BE, categoryName: ''}
+- {Exchange: PNK, Name: ASPA Gold Corp., Ticker: RENS, categoryName: ''}
+- {Exchange: ASX, Name: Vision Eye Institute Limited, Ticker: VEI.AX, categoryName: ''}
+- {Exchange: PNK, Name: Covestro AG, Ticker: COVTY, categoryName: ''}
+- {Exchange: PNK, Name: R1 RCM Inc., Ticker: ACHI, categoryName: ''}
+- {Exchange: STU, Name: Asiasoft Corp. PCL Reg. Shares, Ticker: 5ASA.SG, categoryName: ''}
+- {Exchange: ASX, Name: Paradigm Metals Limited., Ticker: PDM.AX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: YG11.SG, categoryName: ''}
+- {Exchange: VAN, Name: Adanac Molybdenum Corporation, Ticker: AUA.V, categoryName: ''}
+- {Exchange: ASX, Name: iiNet Ltd., Ticker: IIN.AX, categoryName: ''}
+- {Exchange: BER, Name: AIRPORTS O.THAI-FOR-BA 10, Ticker: TX3.BE, categoryName: ''}
+- {Exchange: ASX, Name: TV2U International Limited, Ticker: GAL.AX, categoryName: ''}
+- {Exchange: PNK, Name: CARSP, Ticker: CARSP, categoryName: ''}
+- {Exchange: GER, Name: 'American Water Works Company, Inc.', Ticker: AWC.DE, categoryName: ''}
+- {Exchange: ASX, Name: Emefcy Group Limited, Ticker: SAV.AX, categoryName: ''}
+- {Exchange: FRA, Name: Norwest Energy NL, Ticker: NUX.F, categoryName: ''}
+- {Exchange: VAN, Name: Asia Now Resources Corp., Ticker: NOW.V, categoryName: ''}
+- {Exchange: NCM, Name: Charlemagne Capital Limited, Ticker: CNLM, categoryName: ''}
+- {Exchange: SES, Name: China Medical (International) Group Limited, Ticker: 5IB.SI,
+  categoryName: Steel & Iron}
+- {Exchange: GER, Name: Jungheinrich Aktiengesellschaft, Ticker: JUN3.DE, categoryName: Diversified
+    Machinery}
+- {Exchange: '', Name: '', Ticker: SAT.MI, categoryName: ''}
+- {Exchange: PNK, Name: Avesis Incorporated, Ticker: AVSS, categoryName: ''}
+- {Exchange: PNK, Name: Millennium Investment & Acquisition Company Inc., Ticker: SMCG,
+  categoryName: ''}
+- {Exchange: ASX, Name: PLV.AX, Ticker: PLV.AX, categoryName: ''}
+- {Exchange: PAR, Name: H&K AG, Ticker: MLHK.PA, categoryName: ''}
+- {Exchange: PNK, Name: 'Aluf Holdings, Inc.', Ticker: AHIX, categoryName: ''}
+- {Exchange: PNK, Name: Titan Trading Analytics Inc., Ticker: TITAF, categoryName: ''}
+- {Exchange: PNK, Name: Comerton Corp., Ticker: HAGE, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: RY4A.SG, categoryName: ''}
+- {Exchange: TOR, Name: Connacher Oil and Gas Ltd., Ticker: CLL.TO, categoryName: ''}
+- {Exchange: GER, Name: Condor Blanco Mines Limited, Ticker: 1CB.DE, categoryName: ''}
+- {Exchange: PNK, Name: PIMZ, Ticker: PIMZ, categoryName: ''}
+- {Exchange: PNK, Name: SINO GAS & ENERGY, Ticker: IGEHF, categoryName: ''}
+- {Exchange: HAM, Name: Heron Resources Limited, Ticker: HR7.HM, categoryName: ''}
+- {Exchange: VAN, Name: Arcturus Ventures Inc., Ticker: AZN.V, categoryName: ''}
+- {Exchange: GER, Name: Sky Deutschland AG, Ticker: SKYD.DE, categoryName: ''}
+- {Exchange: EBS, Name: Pfandbriefbank schweizerischer Hypothekarinstitute AG, Ticker: PB399.SW,
+  categoryName: ''}
+- {Exchange: PAR, Name: "Ab\xE9o SA", Ticker: ABEO.PA, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: ADSG.EX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: A1Z2KR.BE, categoryName: ''}
+- {Exchange: TOR, Name: Argent Energy Trust, Ticker: AET-UN.TO, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: AXZY.SG, categoryName: ''}
+- {Exchange: PNK, Name: 'Allegheny Valley Bancorp, Inc.', Ticker: AVLY, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: CW3.SG, categoryName: ''}
+- {Exchange: PNK, Name: 'Native American Energy Group, Inc.', Ticker: NAGP, categoryName: ''}
+- {Exchange: ASX, Name: Alterra Limited, Ticker: CCF.AX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: VC8.DE, categoryName: ''}
+- {Exchange: BSE, Name: Steel Authority of India Limited, Ticker: SAIL.BO, categoryName: ''}
+- {Exchange: PNK, Name: ADV LIGHTING SOLU, Ticker: AVLS, categoryName: ''}
+- {Exchange: NMS, Name: DreamWorks Animation SKG Inc., Ticker: DWA, categoryName: ''}
+- {Exchange: EBS, Name: USIN.SW, Ticker: USIN.SW, categoryName: ''}
+- {Exchange: PNK, Name: All Energy Corporation, Ticker: AFSE, categoryName: ''}
+- {Exchange: LSE, Name: Ros Agro PLC, Ticker: AGRO.L, categoryName: Farm Products}
+- {Exchange: ASX, Name: KBL Mining Limited, Ticker: KBL.AX, categoryName: ''}
+- {Exchange: VIE, Name: EB OE TS.Z./BEIERSDORF, Ticker: KB15.VI, categoryName: ''}
+- {Exchange: STU, Name: Elmos Semiconductor AG Inhaber-, Ticker: ELG.SG, categoryName: Semiconductor
+    Equipment & Materials}
+- {Exchange: PNK, Name: 'Abby, Inc.', Ticker: ABBY, categoryName: ''}
+- {Exchange: ASX, Name: IPA.AX, Ticker: IPA.AX, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: ALL.MX, categoryName: ''}
+- {Exchange: NCM, Name: 'American Caresource Holdings, Inc.', Ticker: ANCI, categoryName: ''}
+- {Exchange: PNK, Name: East Asia Minerals Corporation, Ticker: EAIAF, categoryName: ''}
+- {Exchange: PNK, Name: Adocia SA, Ticker: ADOCF, categoryName: ''}
+- {Exchange: VAN, Name: Amador Gold Corp., Ticker: AGX.V, categoryName: ''}
+- {Exchange: PNK, Name: ABRDF, Ticker: ABRDF, categoryName: ''}
+- {Exchange: PNK, Name: Ashcroft Homes Corporation, Ticker: ASHC, categoryName: ''}
+- {Exchange: VAN, Name: Auryn Resources Inc., Ticker: AUG.V, categoryName: ''}
+- {Exchange: VAN, Name: Alberta Oilsands Inc., Ticker: AOS.V, categoryName: ''}
+- {Exchange: VAN, Name: Anfield Gold Corp., Ticker: ANF.V, categoryName: Industrial
+    Metals & Minerals}
+- {Exchange: '', Name: '', Ticker: GOQ.BE, categoryName: ''}
+- {Exchange: '', Name: '', Ticker: TEKA4F.SA, categoryName: ''}
+- {Exchange: PNK, Name: American Consumers Inc., Ticker: ANCS, categoryName: ''}
+- {Exchange: PNK, Name: Ameritrans Capital Corp., Ticker: AMTC, categoryName: ''}
+- {Exchange: SAO, Name: Aliansce Shopping Centers S.A., Ticker: ALSC9.SA, categoryName: ''}
